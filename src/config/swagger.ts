@@ -5,7 +5,7 @@ import { PORT_EXPRESS } from "./constants";
 
 // Defina a especificação do Swagger
 const options = { 
-    swaggerDefinition: {
+    definition: {
         openapi: '3.0.0',
         info: {
             title: 'API Target',
@@ -19,11 +19,14 @@ const options = {
             }
         ]
     },
-    apis: ['./routes/*.js'] 
+    apis: ['../routers/*.ts'] 
 };
 
 const swaggerSpec = swaggerJSDoc(options);
 
 
-export const config = ['/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerSpec)]
-
+export default {
+    route: '/api-docs',
+    serve: swaggerUi.serve,
+    setup: swaggerUi.setup(swaggerSpec)
+}
