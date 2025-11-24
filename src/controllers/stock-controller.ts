@@ -1,11 +1,32 @@
-// listar movimentaçoes do estoque
-// - saida 
-// - entrada
+export const list = async (req:any, res:any) => {
+    try {
+        res.status(200).json({ status: 'list'})
+    } catch (error) {
+        res.status(500).json({ status: 'erro'})
+    }
+}
 
-// filtar
+export const filter = async (req:any, res:any) => {
+    try {
+        res.status(200).json({ status: 'list'})
+    } catch (error) {
+        res.status(500).json({ status: 'erro'})
+    }
+}
+
+export const register = async (req:any, res:any) => {
+    try {
+        res.status(200).json({ status: 'list'})
+    } catch (error) {
+        res.status(500).json({ status: 'erro'})
+    }
+}
 
 
-// lancar uma movimentacao
-
-
-// estornar uma movimentação
+export const update = async (req:any, res:any) => {
+    try {
+        res.status(200).json({ status: 'list'})
+    } catch (error) {
+        res.status(500).json({ status: 'erro'})
+    }
+}

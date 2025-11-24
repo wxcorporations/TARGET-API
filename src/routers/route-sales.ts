@@ -1,15 +1,15 @@
 import { Router } from 'express'
 
+import { list, filter, register, update } from '../controllers/sales-controller'
+
 const route = Router()
 
+route.get('/sales', list)
 
-// listar todas as venda
+route.get('/sales', filter)
 
+route.post('/sale', register)
 
-// cadastrar uma nova venda
-
-
-// editar uma venda
-
+route.put('/sale', update)
 
 export default route

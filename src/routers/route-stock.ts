@@ -1,18 +1,15 @@
 import { Router } from 'express'
 
+import { list, filter, register, update } from '../controllers/stock-controller'
+
 const route = Router()
 
+route.get('/stock', list)
 
-// listar movimentaçoes do estoque
-// - saida 
-// - entrada
+route.get('/stock', filter)
 
-// filtar
+route.get('/stock', register)
 
-
-// lancar uma movimentacao
-
-
-// estornar uma movimentação
+route.get('/stock', update)
 
 export default route
