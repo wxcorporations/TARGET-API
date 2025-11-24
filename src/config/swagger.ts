@@ -1,6 +1,5 @@
 import swaggerUi from 'swagger-ui-express';
 import swaggerJSDoc from 'swagger-jsdoc';
-
 import { PORT_EXPRESS } from "./constants";
 
 // Defina a especificação do Swagger
@@ -19,7 +18,7 @@ const options = {
             }
         ]
     },
-    apis: ['../routers/*.ts'] 
+    apis: ['src/routers/*.ts']
 };
 
 const swaggerSpec = swaggerJSDoc(options);
