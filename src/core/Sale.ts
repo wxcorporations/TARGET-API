@@ -3,7 +3,7 @@ import { ORDER } from "../config/constants";
 export interface ISaleDTO {
     vendedor: string,
     valor: number,
-    id: number,
+    id?: number,
 }
 
 export class Sale {

@@ -1,4 +1,5 @@
 import { Commission } from "./commission";
+import { ISaleDTO } from './Sale'
 
 type commissionReport = {
     vendedor: string,
@@ -6,10 +7,10 @@ type commissionReport = {
 }
 
 export class Finance {
-    static createReportCommissions(data: any) {
+    static createReportCommissions(data: any): ISaleDTO[] | false  {
         try {
             const sallers = new Map()
-            const report: commissionReport[] = []
+            const report: ISaleDTO[] = []
             
             for (const saller of data) {
                 const valueCommission = Commission.calculate(saller.valor)
@@ -23,7 +24,8 @@ export class Finance {
             return report
             
         } catch (error) {
-            return error
+            console.error(error)
+            return false
         }
     }
 }

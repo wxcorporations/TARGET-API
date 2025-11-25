@@ -1,17 +1,19 @@
 import { SaleRepositoryInMemory } from '../infra/repository/sales-repository-In-memory';
 import { Finance } from '../core/Finance';
+import { Sale } from '../core/Sale';
 
-
+const repository = new SaleRepositoryInMemory()
 
 export const list = async (req:any, res:any) => {
     try {
-        const repository = new SaleRepositoryInMemory()
+        const data = await repository.getAll()
+        
+        const reportSale = Finance.createReportCommissions(data)
 
-        const data = ('order' in req.query)
-            ? await repository.getAll(req.query.order)
-            : await repository.getAll()
+        const result = ('order' in req.query && reportSale !== false)
+            ? Sale.orderSales(reportSale, req.query.order) : reportSale
 
-        res.status(200).json({ status: 'ok', data })
+        res.status(200).json({ status: 'ok', data: result })
     } catch (error) {
         res.status(500).json({ status: 'erro'})
     }
@@ -19,7 +21,7 @@ export const list = async (req:any, res:any) => {
 
 export const filter = async (req:any, res:any) => {
     try {
-        const repository = new SaleRepositoryInMemory()
+        // const repository = new SaleRepositoryInMemory()
         // nome
 
         // maior que 
