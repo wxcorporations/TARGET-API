@@ -57,17 +57,15 @@ export class SaleRepositoryInMemory{
         return sale ?? null
     }
 
-    async create(data: ISaleDTO): Promise<ISaleDTO|null> {
-        const lastSale = this.data[this.data.length]
+    async create(data: ISaleDTO): Promise<ISaleDTO|unknown> {
+        try {
+            const _sale = await Sale.create({ id: this.data.length, vendedor: data.vendedor, valor: data.valor })
+            this.data.push(_sale)
+            
+            return data
 
-        const newSale = {
-            id: lastSale.id + 1, 
-            vendedor: data.vendedor || '', 
-            valor: data.valor || 0
+        } catch (error) {
+            console.error(error)
         }
-
-        this.data.push(newSale)
-
-        return newSale
     }
 }

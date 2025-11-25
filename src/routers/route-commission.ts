@@ -6,7 +6,4 @@ const route = Router()
 
 route.get('/commissions', list)
 
-// route.get('/commissions', filter)
-
-
 export default route
