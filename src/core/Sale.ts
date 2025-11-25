@@ -6,11 +6,14 @@ export interface ISaleDTO {
     id?: number,
 }
 
-type ISaleFilters = {
+export type order = 'cre' | 'dec'
+
+export type ISaleFilters = {
     value?: number,
     min_value?: number,
     max_value?: number,
-    name?: string
+    name?: string,
+    order?: order
 }
 
 export class Sale {
@@ -31,15 +34,12 @@ export class Sale {
         if (Number(valor) <= 0) throw new Error('Valor deve ser do tipo numerico positivo')
     }
 
-    static orderSales(data: ISaleDTO[] , order: 'cre' | 'dec') {
+    static orderSales(data: ISaleDTO[] , order: order) {
         const _data = data.map((d) => d ).sort((a:any, b:any) => b.valor - a.valor)
         return order === ORDER.DECRECENTE ? _data : _data.reverse()
     }
 
-    static async filteSales(data:ISaleDTO[] , filter: ISaleFilters): Promise<ISaleDTO[]|[]> {
-
-        console.log('filtro => ', filter)
-
+    static async filteSales(data:ISaleDTO[] , filter: ISaleFilters): Promise<ISaleDTO[]> {
         return data.filter(report => {
             const isName = filter.name ? report.vendedor === filter.name : true
             const isValue = filter.value ? report.valor === filter.value : true
@@ -48,5 +48,15 @@ export class Sale {
 
             return isName && isValue && isMinValue && isMaxValue
         })
+    }
+
+    static async create({ valor, vendedor, id }: ISaleDTO)  {
+        Sale.validate({valor, vendedor, id})
+
+        return {
+            vendedor,
+            id,
+            valor,
+        }
     }
 }
