@@ -8,7 +8,8 @@ calcular e listar o resultado computado apartir de uma fonte de dados.
 ## Menu
 
 - [O que foi solicitado no teste.](./docs/desafio.md)
-- [Document rota commission.](./docs/rota-commissions.md)
+- [Doc rota commission.](./docs/rota-commissions.md)
+- [Doc rota sales.](./docs/rota-sales.md)
 
 
 # Como executar o projeto (API - target-api)
