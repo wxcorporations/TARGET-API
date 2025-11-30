@@ -1,40 +1,5004 @@
 {
     "vendas": [
-        { "id":  1, "vendedor": "João Silva", "valor": 1200.50 },
-        { "id":  2, "vendedor": "João Silva", "valor": 950.75 },
-        { "id":  3, "vendedor": "João Silva", "valor": 1800.00 },
-        { "id":  4, "vendedor": "João Silva", "valor": 1400.30 },
-        { "id":  5, "vendedor": "João Silva", "valor": 1100.90 },
-        { "id":  6, "vendedor": "João Silva", "valor": 1550.00 },
-        { "id":  7, "vendedor": "João Silva", "valor": 1700.80 },
-        { "id":  8, "vendedor": "João Silva", "valor": 250.30 },
-        { "id":  9, "vendedor": "João Silva", "valor": 480.75 },
-        { "id":  10, "vendedor": "João Silva", "valor": 320.40 },
-        { "id":  11, "vendedor": "Maria Souza", "valor": 2100.40 },
-        { "id":  12, "vendedor": "Maria Souza", "valor": 1350.60 },
-        { "id":  13, "vendedor": "Maria Souza", "valor": 950.20 },
-        { "id":  14, "vendedor": "Maria Souza", "valor": 1600.75 },
-        { "id":  15, "vendedor": "Maria Souza", "valor": 1750.00 },
-        { "id":  16, "vendedor": "Maria Souza", "valor": 1450.90 },
-        { "id":  17, "vendedor": "Maria Souza", "valor": 400.50 },
-        { "id":  17, "vendedor": "Maria Souza", "valor": 180.20 },
-        { "id":  19, "vendedor": "Maria Souza", "valor": 90.75 },
-        { "id":  20, "vendedor": "Carlos Oliveira", "valor": 800.50 },
-        { "id":  21, "vendedor": "Carlos Oliveira", "valor": 1200.00 },
-        { "id":  22, "vendedor": "Carlos Oliveira", "valor": 1950.30 },
-        { "id":  23, "vendedor": "Carlos Oliveira", "valor": 1750.80 },
-        { "id":  24, "vendedor": "Carlos Oliveira", "valor": 1300.60 },
-        { "id":  25, "vendedor": "Carlos Oliveira", "valor": 300.40 },
-        { "id":  26, "vendedor": "Carlos Oliveira", "valor": 500.00 },
-        { "id":  27, "vendedor": "Carlos Oliveira", "valor": 125.75 },
-        { "id":  28, "vendedor": "Ana Lima", "valor": 1000.00 },
-        { "id":  29, "vendedor": "Ana Lima", "valor": 1100.50 },
-        { "id":  30, "vendedor": "Ana Lima", "valor": 1250.75 },
-        { "id":  31, "vendedor": "Ana Lima", "valor": 1400.20 },
-        { "id":  32, "vendedor": "Ana Lima", "valor": 1550.90 },
-        { "id":  33, "vendedor": "Ana Lima", "valor": 1650.00 },
-        { "id":  34, "vendedor": "Ana Lima", "valor": 75.30 },
-        { "id":  35, "vendedor": "Ana Lima", "valor": 420.90 },
-        { "id":  36, "vendedor": "Ana Lima", "valor": 315.40 }
+        {
+            "id": 1,
+            "vendedor": "Armando Souto",
+            "valor": 3873.71
+        },
+        {
+            "id": 2,
+            "vendedor": "Armando Souto",
+            "valor": 1630.29
+        },
+        {
+            "id": 3,
+            "vendedor": "Fernanda Costa",
+            "valor": 375.18
+        },
+        {
+            "id": 4,
+            "vendedor": "Ana Lima",
+            "valor": 4055.75
+        },
+        {
+            "id": 5,
+            "vendedor": "Lucas Almeida",
+            "valor": 192.58
+        },
+        {
+            "id": 6,
+            "vendedor": "Maria Souza",
+            "valor": 649.83
+        },
+        {
+            "id": 7,
+            "vendedor": "João Silva",
+            "valor": 4272.81
+        },
+        {
+            "id": 8,
+            "vendedor": "João Silva",
+            "valor": 3312.4
+        },
+        {
+            "id": 9,
+            "vendedor": "Roberto Justos",
+            "valor": 3657.2
+        },
+        {
+            "id": 10,
+            "vendedor": "Ana Lima",
+            "valor": 1620.63
+        },
+        {
+            "id": 11,
+            "vendedor": "Maria Souza",
+            "valor": 1448.1
+        },
+        {
+            "id": 12,
+            "vendedor": "Fernanda Costa",
+            "valor": 3821.31
+        },
+        {
+            "id": 13,
+            "vendedor": "Tiririca da Silva",
+            "valor": 681.61
+        },
+        {
+            "id": 14,
+            "vendedor": "Fernanda Costa",
+            "valor": 4678.68
+        },
+        {
+            "id": 15,
+            "vendedor": "Fernanda Costa",
+            "valor": 3077.71
+        },
+        {
+            "id": 16,
+            "vendedor": "Lucas Almeida",
+            "valor": 1687.9
+        },
+        {
+            "id": 17,
+            "vendedor": "Paulo Oliveira",
+            "valor": 3223.26
+        },
+        {
+            "id": 18,
+            "vendedor": "Carlos Pereira",
+            "valor": 1702.41
+        },
+        {
+            "id": 19,
+            "vendedor": "João Silva",
+            "valor": 4125.6
+        },
+        {
+            "id": 20,
+            "vendedor": "Roberto Justos",
+            "valor": 2660.16
+        },
+        {
+            "id": 21,
+            "vendedor": "Beatriz Santos",
+            "valor": 898.36
+        },
+        {
+            "id": 22,
+            "vendedor": "Roberto Justos",
+            "valor": 263.75
+        },
+        {
+            "id": 23,
+            "vendedor": "Paulo Oliveira",
+            "valor": 4492.59
+        },
+        {
+            "id": 24,
+            "vendedor": "Carlos Pereira",
+            "valor": 3488.46
+        },
+        {
+            "id": 25,
+            "vendedor": "Roberto Justos",
+            "valor": 1190.67
+        },
+        {
+            "id": 26,
+            "vendedor": "Beatriz Santos",
+            "valor": 4858.36
+        },
+        {
+            "id": 27,
+            "vendedor": "Carlos Pereira",
+            "valor": 4920.42
+        },
+        {
+            "id": 28,
+            "vendedor": "Paulo Oliveira",
+            "valor": 2736.22
+        },
+        {
+            "id": 29,
+            "vendedor": "Paulo Oliveira",
+            "valor": 4995.95
+        },
+        {
+            "id": 30,
+            "vendedor": "Fernanda Costa",
+            "valor": 4721.63
+        },
+        {
+            "id": 31,
+            "vendedor": "João Silva",
+            "valor": 2455.95
+        },
+        {
+            "id": 32,
+            "vendedor": "Ana Lima",
+            "valor": 2894.56
+        },
+        {
+            "id": 33,
+            "vendedor": "Lucas Almeida",
+            "valor": 3748.84
+        },
+        {
+            "id": 34,
+            "vendedor": "João Silva",
+            "valor": 3065.74
+        },
+        {
+            "id": 35,
+            "vendedor": "Armando Souto",
+            "valor": 1174.22
+        },
+        {
+            "id": 36,
+            "vendedor": "Fernanda Costa",
+            "valor": 1075.12
+        },
+        {
+            "id": 37,
+            "vendedor": "Roberto Justos",
+            "valor": 1750.96
+        },
+        {
+            "id": 38,
+            "vendedor": "Carlos Pereira",
+            "valor": 278.2
+        },
+        {
+            "id": 39,
+            "vendedor": "Tiririca da Silva",
+            "valor": 2348.14
+        },
+        {
+            "id": 40,
+            "vendedor": "João Silva",
+            "valor": 285.04
+        },
+        {
+            "id": 41,
+            "vendedor": "Maria Souza",
+            "valor": 1518.57
+        },
+        {
+            "id": 42,
+            "vendedor": "Tiririca da Silva",
+            "valor": 3768.72
+        },
+        {
+            "id": 43,
+            "vendedor": "João Silva",
+            "valor": 3913.77
+        },
+        {
+            "id": 44,
+            "vendedor": "Paulo Oliveira",
+            "valor": 4743.7
+        },
+        {
+            "id": 45,
+            "vendedor": "Ana Lima",
+            "valor": 610.5
+        },
+        {
+            "id": 46,
+            "vendedor": "Armando Souto",
+            "valor": 1501.94
+        },
+        {
+            "id": 47,
+            "vendedor": "Beatriz Santos",
+            "valor": 2462.44
+        },
+        {
+            "id": 48,
+            "vendedor": "Carlos Pereira",
+            "valor": 4481.38
+        },
+        {
+            "id": 49,
+            "vendedor": "João Silva",
+            "valor": 1098.37
+        },
+        {
+            "id": 50,
+            "vendedor": "Lucas Almeida",
+            "valor": 2329.84
+        },
+        {
+            "id": 51,
+            "vendedor": "Tiririca da Silva",
+            "valor": 4114.55
+        },
+        {
+            "id": 52,
+            "vendedor": "Roberto Justos",
+            "valor": 4018.78
+        },
+        {
+            "id": 53,
+            "vendedor": "Roberto Justos",
+            "valor": 594.61
+        },
+        {
+            "id": 54,
+            "vendedor": "Paulo Oliveira",
+            "valor": 2697.48
+        },
+        {
+            "id": 55,
+            "vendedor": "Maria Souza",
+            "valor": 1021.89
+        },
+        {
+            "id": 56,
+            "vendedor": "Lucas Almeida",
+            "valor": 4251.89
+        },
+        {
+            "id": 57,
+            "vendedor": "João Silva",
+            "valor": 3679.38
+        },
+        {
+            "id": 58,
+            "vendedor": "Beatriz Santos",
+            "valor": 5037.71
+        },
+        {
+            "id": 59,
+            "vendedor": "Maria Souza",
+            "valor": 3877.27
+        },
+        {
+            "id": 60,
+            "vendedor": "Armando Souto",
+            "valor": 137.18
+        },
+        {
+            "id": 61,
+            "vendedor": "Roberto Justos",
+            "valor": 2015.85
+        },
+        {
+            "id": 62,
+            "vendedor": "Roberto Justos",
+            "valor": 1709.55
+        },
+        {
+            "id": 63,
+            "vendedor": "Paulo Oliveira",
+            "valor": 514.41
+        },
+        {
+            "id": 64,
+            "vendedor": "Ana Lima",
+            "valor": 601.66
+        },
+        {
+            "id": 65,
+            "vendedor": "Maria Souza",
+            "valor": 1615.29
+        },
+        {
+            "id": 66,
+            "vendedor": "João Silva",
+            "valor": 4462.61
+        },
+        {
+            "id": 67,
+            "vendedor": "Armando Souto",
+            "valor": 2581.6
+        },
+        {
+            "id": 68,
+            "vendedor": "Beatriz Santos",
+            "valor": 1375.53
+        },
+        {
+            "id": 69,
+            "vendedor": "Maria Souza",
+            "valor": 4214.52
+        },
+        {
+            "id": 70,
+            "vendedor": "Tiririca da Silva",
+            "valor": 4699.83
+        },
+        {
+            "id": 71,
+            "vendedor": "Roberto Justos",
+            "valor": 665.53
+        },
+        {
+            "id": 72,
+            "vendedor": "Paulo Oliveira",
+            "valor": 1833.12
+        },
+        {
+            "id": 73,
+            "vendedor": "Fernanda Costa",
+            "valor": 4941.16
+        },
+        {
+            "id": 74,
+            "vendedor": "Beatriz Santos",
+            "valor": 1930.68
+        },
+        {
+            "id": 75,
+            "vendedor": "Fernanda Costa",
+            "valor": 318.83
+        },
+        {
+            "id": 76,
+            "vendedor": "Paulo Oliveira",
+            "valor": 3536.87
+        },
+        {
+            "id": 77,
+            "vendedor": "Carlos Pereira",
+            "valor": 347.51
+        },
+        {
+            "id": 78,
+            "vendedor": "João Silva",
+            "valor": 3295.48
+        },
+        {
+            "id": 79,
+            "vendedor": "Paulo Oliveira",
+            "valor": 495.27
+        },
+        {
+            "id": 80,
+            "vendedor": "Maria Souza",
+            "valor": 2169.4
+        },
+        {
+            "id": 81,
+            "vendedor": "Paulo Oliveira",
+            "valor": 3474.23
+        },
+        {
+            "id": 82,
+            "vendedor": "Lucas Almeida",
+            "valor": 2908.04
+        },
+        {
+            "id": 83,
+            "vendedor": "Ana Lima",
+            "valor": 675.78
+        },
+        {
+            "id": 84,
+            "vendedor": "Fernanda Costa",
+            "valor": 143.07
+        },
+        {
+            "id": 85,
+            "vendedor": "Beatriz Santos",
+            "valor": 3571.17
+        },
+        {
+            "id": 86,
+            "vendedor": "Tiririca da Silva",
+            "valor": 4426.88
+        },
+        {
+            "id": 87,
+            "vendedor": "Beatriz Santos",
+            "valor": 557.08
+        },
+        {
+            "id": 88,
+            "vendedor": "Lucas Almeida",
+            "valor": 2006.19
+        },
+        {
+            "id": 89,
+            "vendedor": "Lucas Almeida",
+            "valor": 2865.58
+        },
+        {
+            "id": 90,
+            "vendedor": "Paulo Oliveira",
+            "valor": 1432.5
+        },
+        {
+            "id": 91,
+            "vendedor": "Tiririca da Silva",
+            "valor": 1195.44
+        },
+        {
+            "id": 92,
+            "vendedor": "Ana Lima",
+            "valor": 4335.5
+        },
+        {
+            "id": 93,
+            "vendedor": "Maria Souza",
+            "valor": 4976.19
+        },
+        {
+            "id": 94,
+            "vendedor": "Tiririca da Silva",
+            "valor": 1075.13
+        },
+        {
+            "id": 95,
+            "vendedor": "Paulo Oliveira",
+            "valor": 3386.34
+        },
+        {
+            "id": 96,
+            "vendedor": "Carlos Pereira",
+            "valor": 477.95
+        },
+        {
+            "id": 97,
+            "vendedor": "Armando Souto",
+            "valor": 2838.57
+        },
+        {
+            "id": 98,
+            "vendedor": "Fernanda Costa",
+            "valor": 3027.9
+        },
+        {
+            "id": 99,
+            "vendedor": "Tiririca da Silva",
+            "valor": 1392.25
+        },
+        {
+            "id": 100,
+            "vendedor": "Carlos Pereira",
+            "valor": 1763.29
+        },
+        {
+            "id": 101,
+            "vendedor": "Beatriz Santos",
+            "valor": 2754.55
+        },
+        {
+            "id": 102,
+            "vendedor": "Armando Souto",
+            "valor": 842.03
+        },
+        {
+            "id": 103,
+            "vendedor": "Ana Lima",
+            "valor": 4789.61
+        },
+        {
+            "id": 104,
+            "vendedor": "Armando Souto",
+            "valor": 622.87
+        },
+        {
+            "id": 105,
+            "vendedor": "Ana Lima",
+            "valor": 1419.34
+        },
+        {
+            "id": 106,
+            "vendedor": "Fernanda Costa",
+            "valor": 1273.25
+        },
+        {
+            "id": 107,
+            "vendedor": "Fernanda Costa",
+            "valor": 3360.8
+        },
+        {
+            "id": 108,
+            "vendedor": "Maria Souza",
+            "valor": 2937.1
+        },
+        {
+            "id": 109,
+            "vendedor": "João Silva",
+            "valor": 4635.06
+        },
+        {
+            "id": 110,
+            "vendedor": "Lucas Almeida",
+            "valor": 4070.62
+        },
+        {
+            "id": 111,
+            "vendedor": "Beatriz Santos",
+            "valor": 4890.94
+        },
+        {
+            "id": 112,
+            "vendedor": "João Silva",
+            "valor": 3903.25
+        },
+        {
+            "id": 113,
+            "vendedor": "Armando Souto",
+            "valor": 5063.91
+        },
+        {
+            "id": 114,
+            "vendedor": "Roberto Justos",
+            "valor": 2961.3
+        },
+        {
+            "id": 115,
+            "vendedor": "Tiririca da Silva",
+            "valor": 489.79
+        },
+        {
+            "id": 116,
+            "vendedor": "Beatriz Santos",
+            "valor": 1172.22
+        },
+        {
+            "id": 117,
+            "vendedor": "Ana Lima",
+            "valor": 2881.83
+        },
+        {
+            "id": 118,
+            "vendedor": "Maria Souza",
+            "valor": 3561.04
+        },
+        {
+            "id": 119,
+            "vendedor": "Beatriz Santos",
+            "valor": 4111.16
+        },
+        {
+            "id": 120,
+            "vendedor": "Maria Souza",
+            "valor": 2225.45
+        },
+        {
+            "id": 121,
+            "vendedor": "Fernanda Costa",
+            "valor": 4350.7
+        },
+        {
+            "id": 122,
+            "vendedor": "Paulo Oliveira",
+            "valor": 655.2
+        },
+        {
+            "id": 123,
+            "vendedor": "Beatriz Santos",
+            "valor": 4417.84
+        },
+        {
+            "id": 124,
+            "vendedor": "Maria Souza",
+            "valor": 4197.07
+        },
+        {
+            "id": 125,
+            "vendedor": "Beatriz Santos",
+            "valor": 1736.86
+        },
+        {
+            "id": 126,
+            "vendedor": "Paulo Oliveira",
+            "valor": 3484.47
+        },
+        {
+            "id": 127,
+            "vendedor": "Ana Lima",
+            "valor": 3935.35
+        },
+        {
+            "id": 128,
+            "vendedor": "Ana Lima",
+            "valor": 2498.08
+        },
+        {
+            "id": 129,
+            "vendedor": "Paulo Oliveira",
+            "valor": 3739.98
+        },
+        {
+            "id": 130,
+            "vendedor": "Roberto Justos",
+            "valor": 3678.2
+        },
+        {
+            "id": 131,
+            "vendedor": "Paulo Oliveira",
+            "valor": 3198.43
+        },
+        {
+            "id": 132,
+            "vendedor": "Roberto Justos",
+            "valor": 1514.14
+        },
+        {
+            "id": 133,
+            "vendedor": "Roberto Justos",
+            "valor": 2393.58
+        },
+        {
+            "id": 134,
+            "vendedor": "Tiririca da Silva",
+            "valor": 154.02
+        },
+        {
+            "id": 135,
+            "vendedor": "Carlos Pereira",
+            "valor": 1156.88
+        },
+        {
+            "id": 136,
+            "vendedor": "Lucas Almeida",
+            "valor": 2832.32
+        },
+        {
+            "id": 137,
+            "vendedor": "Roberto Justos",
+            "valor": 904.07
+        },
+        {
+            "id": 138,
+            "vendedor": "João Silva",
+            "valor": 1857.95
+        },
+        {
+            "id": 139,
+            "vendedor": "Armando Souto",
+            "valor": 1679.86
+        },
+        {
+            "id": 140,
+            "vendedor": "Fernanda Costa",
+            "valor": 3250.34
+        },
+        {
+            "id": 141,
+            "vendedor": "Lucas Almeida",
+            "valor": 4046.94
+        },
+        {
+            "id": 142,
+            "vendedor": "João Silva",
+            "valor": 1567.45
+        },
+        {
+            "id": 143,
+            "vendedor": "Armando Souto",
+            "valor": 696.22
+        },
+        {
+            "id": 144,
+            "vendedor": "Paulo Oliveira",
+            "valor": 2934.59
+        },
+        {
+            "id": 145,
+            "vendedor": "Armando Souto",
+            "valor": 3865.8
+        },
+        {
+            "id": 146,
+            "vendedor": "Maria Souza",
+            "valor": 2800.15
+        },
+        {
+            "id": 147,
+            "vendedor": "Carlos Pereira",
+            "valor": 4771.46
+        },
+        {
+            "id": 148,
+            "vendedor": "Paulo Oliveira",
+            "valor": 1275.08
+        },
+        {
+            "id": 149,
+            "vendedor": "Maria Souza",
+            "valor": 136.97
+        },
+        {
+            "id": 150,
+            "vendedor": "Carlos Pereira",
+            "valor": 3086.26
+        },
+        {
+            "id": 151,
+            "vendedor": "Fernanda Costa",
+            "valor": 4429.81
+        },
+        {
+            "id": 152,
+            "vendedor": "Ana Lima",
+            "valor": 665.46
+        },
+        {
+            "id": 153,
+            "vendedor": "Paulo Oliveira",
+            "valor": 2952.65
+        },
+        {
+            "id": 154,
+            "vendedor": "Maria Souza",
+            "valor": 2480.82
+        },
+        {
+            "id": 155,
+            "vendedor": "Lucas Almeida",
+            "valor": 1878.87
+        },
+        {
+            "id": 156,
+            "vendedor": "Tiririca da Silva",
+            "valor": 4743.48
+        },
+        {
+            "id": 157,
+            "vendedor": "Tiririca da Silva",
+            "valor": 429.39
+        },
+        {
+            "id": 158,
+            "vendedor": "Paulo Oliveira",
+            "valor": 1613.35
+        },
+        {
+            "id": 159,
+            "vendedor": "Armando Souto",
+            "valor": 4370.99
+        },
+        {
+            "id": 160,
+            "vendedor": "Lucas Almeida",
+            "valor": 2946
+        },
+        {
+            "id": 161,
+            "vendedor": "Lucas Almeida",
+            "valor": 4285.68
+        },
+        {
+            "id": 162,
+            "vendedor": "Roberto Justos",
+            "valor": 221.83
+        },
+        {
+            "id": 163,
+            "vendedor": "Ana Lima",
+            "valor": 2986.32
+        },
+        {
+            "id": 164,
+            "vendedor": "Fernanda Costa",
+            "valor": 3740.19
+        },
+        {
+            "id": 165,
+            "vendedor": "Paulo Oliveira",
+            "valor": 1878.57
+        },
+        {
+            "id": 166,
+            "vendedor": "João Silva",
+            "valor": 4892.04
+        },
+        {
+            "id": 167,
+            "vendedor": "Roberto Justos",
+            "valor": 2349.72
+        },
+        {
+            "id": 168,
+            "vendedor": "Carlos Pereira",
+            "valor": 4344.13
+        },
+        {
+            "id": 169,
+            "vendedor": "Beatriz Santos",
+            "valor": 397.23
+        },
+        {
+            "id": 170,
+            "vendedor": "Carlos Pereira",
+            "valor": 4546.8
+        },
+        {
+            "id": 171,
+            "vendedor": "Tiririca da Silva",
+            "valor": 1604.22
+        },
+        {
+            "id": 172,
+            "vendedor": "Roberto Justos",
+            "valor": 635.47
+        },
+        {
+            "id": 173,
+            "vendedor": "Tiririca da Silva",
+            "valor": 2319.6
+        },
+        {
+            "id": 174,
+            "vendedor": "Roberto Justos",
+            "valor": 309.25
+        },
+        {
+            "id": 175,
+            "vendedor": "Paulo Oliveira",
+            "valor": 4529.65
+        },
+        {
+            "id": 176,
+            "vendedor": "Beatriz Santos",
+            "valor": 4134.3
+        },
+        {
+            "id": 177,
+            "vendedor": "Lucas Almeida",
+            "valor": 448.48
+        },
+        {
+            "id": 178,
+            "vendedor": "Tiririca da Silva",
+            "valor": 2774.01
+        },
+        {
+            "id": 179,
+            "vendedor": "Roberto Justos",
+            "valor": 2339.13
+        },
+        {
+            "id": 180,
+            "vendedor": "Beatriz Santos",
+            "valor": 1417.76
+        },
+        {
+            "id": 181,
+            "vendedor": "Beatriz Santos",
+            "valor": 3907.92
+        },
+        {
+            "id": 182,
+            "vendedor": "Armando Souto",
+            "valor": 2784.52
+        },
+        {
+            "id": 183,
+            "vendedor": "João Silva",
+            "valor": 3599.36
+        },
+        {
+            "id": 184,
+            "vendedor": "Paulo Oliveira",
+            "valor": 126.7
+        },
+        {
+            "id": 185,
+            "vendedor": "Ana Lima",
+            "valor": 3613.41
+        },
+        {
+            "id": 186,
+            "vendedor": "Roberto Justos",
+            "valor": 3759.04
+        },
+        {
+            "id": 187,
+            "vendedor": "Maria Souza",
+            "valor": 1768.94
+        },
+        {
+            "id": 188,
+            "vendedor": "Fernanda Costa",
+            "valor": 4659.02
+        },
+        {
+            "id": 189,
+            "vendedor": "Tiririca da Silva",
+            "valor": 701.06
+        },
+        {
+            "id": 190,
+            "vendedor": "Paulo Oliveira",
+            "valor": 1610.89
+        },
+        {
+            "id": 191,
+            "vendedor": "João Silva",
+            "valor": 1132.36
+        },
+        {
+            "id": 192,
+            "vendedor": "Fernanda Costa",
+            "valor": 2464.04
+        },
+        {
+            "id": 193,
+            "vendedor": "Carlos Pereira",
+            "valor": 3570.83
+        },
+        {
+            "id": 194,
+            "vendedor": "Beatriz Santos",
+            "valor": 2038.77
+        },
+        {
+            "id": 195,
+            "vendedor": "Armando Souto",
+            "valor": 3832.75
+        },
+        {
+            "id": 196,
+            "vendedor": "Roberto Justos",
+            "valor": 4648.8
+        },
+        {
+            "id": 197,
+            "vendedor": "Paulo Oliveira",
+            "valor": 4392.2
+        },
+        {
+            "id": 198,
+            "vendedor": "Armando Souto",
+            "valor": 2726.6
+        },
+        {
+            "id": 199,
+            "vendedor": "João Silva",
+            "valor": 1564.27
+        },
+        {
+            "id": 200,
+            "vendedor": "Ana Lima",
+            "valor": 556.34
+        },
+        {
+            "id": 201,
+            "vendedor": "Carlos Pereira",
+            "valor": 4706.4
+        },
+        {
+            "id": 202,
+            "vendedor": "Carlos Pereira",
+            "valor": 4417.21
+        },
+        {
+            "id": 203,
+            "vendedor": "Roberto Justos",
+            "valor": 1905.14
+        },
+        {
+            "id": 204,
+            "vendedor": "Beatriz Santos",
+            "valor": 4346.06
+        },
+        {
+            "id": 205,
+            "vendedor": "Lucas Almeida",
+            "valor": 4042.75
+        },
+        {
+            "id": 206,
+            "vendedor": "Roberto Justos",
+            "valor": 1919.7
+        },
+        {
+            "id": 207,
+            "vendedor": "Paulo Oliveira",
+            "valor": 3580.95
+        },
+        {
+            "id": 208,
+            "vendedor": "Beatriz Santos",
+            "valor": 4857.37
+        },
+        {
+            "id": 209,
+            "vendedor": "Beatriz Santos",
+            "valor": 361.01
+        },
+        {
+            "id": 210,
+            "vendedor": "Roberto Justos",
+            "valor": 139.22
+        },
+        {
+            "id": 211,
+            "vendedor": "Roberto Justos",
+            "valor": 1032.01
+        },
+        {
+            "id": 212,
+            "vendedor": "Maria Souza",
+            "valor": 3317.98
+        },
+        {
+            "id": 213,
+            "vendedor": "Roberto Justos",
+            "valor": 2994.06
+        },
+        {
+            "id": 214,
+            "vendedor": "Armando Souto",
+            "valor": 2199.46
+        },
+        {
+            "id": 215,
+            "vendedor": "Ana Lima",
+            "valor": 1266.99
+        },
+        {
+            "id": 216,
+            "vendedor": "Maria Souza",
+            "valor": 3320.89
+        },
+        {
+            "id": 217,
+            "vendedor": "Maria Souza",
+            "valor": 4702.32
+        },
+        {
+            "id": 218,
+            "vendedor": "Armando Souto",
+            "valor": 3609.07
+        },
+        {
+            "id": 219,
+            "vendedor": "Maria Souza",
+            "valor": 4197
+        },
+        {
+            "id": 220,
+            "vendedor": "Fernanda Costa",
+            "valor": 1434.62
+        },
+        {
+            "id": 221,
+            "vendedor": "Beatriz Santos",
+            "valor": 4899.98
+        },
+        {
+            "id": 222,
+            "vendedor": "Carlos Pereira",
+            "valor": 3100.49
+        },
+        {
+            "id": 223,
+            "vendedor": "Carlos Pereira",
+            "valor": 843.96
+        },
+        {
+            "id": 224,
+            "vendedor": "Tiririca da Silva",
+            "valor": 4160.42
+        },
+        {
+            "id": 225,
+            "vendedor": "Carlos Pereira",
+            "valor": 3133.35
+        },
+        {
+            "id": 226,
+            "vendedor": "Paulo Oliveira",
+            "valor": 1015.83
+        },
+        {
+            "id": 227,
+            "vendedor": "Lucas Almeida",
+            "valor": 1923.27
+        },
+        {
+            "id": 228,
+            "vendedor": "Tiririca da Silva",
+            "valor": 2877.21
+        },
+        {
+            "id": 229,
+            "vendedor": "Beatriz Santos",
+            "valor": 1392.63
+        },
+        {
+            "id": 230,
+            "vendedor": "Beatriz Santos",
+            "valor": 2681.11
+        },
+        {
+            "id": 231,
+            "vendedor": "Beatriz Santos",
+            "valor": 4961.95
+        },
+        {
+            "id": 232,
+            "vendedor": "Carlos Pereira",
+            "valor": 4758.93
+        },
+        {
+            "id": 233,
+            "vendedor": "Roberto Justos",
+            "valor": 1837.67
+        },
+        {
+            "id": 234,
+            "vendedor": "Ana Lima",
+            "valor": 196.7
+        },
+        {
+            "id": 235,
+            "vendedor": "Beatriz Santos",
+            "valor": 2650.2
+        },
+        {
+            "id": 236,
+            "vendedor": "João Silva",
+            "valor": 3249.6
+        },
+        {
+            "id": 237,
+            "vendedor": "Maria Souza",
+            "valor": 4171.41
+        },
+        {
+            "id": 238,
+            "vendedor": "João Silva",
+            "valor": 1693.08
+        },
+        {
+            "id": 239,
+            "vendedor": "João Silva",
+            "valor": 2965.2
+        },
+        {
+            "id": 240,
+            "vendedor": "Maria Souza",
+            "valor": 1378.24
+        },
+        {
+            "id": 241,
+            "vendedor": "Maria Souza",
+            "valor": 1270.22
+        },
+        {
+            "id": 242,
+            "vendedor": "João Silva",
+            "valor": 2644.45
+        },
+        {
+            "id": 243,
+            "vendedor": "Fernanda Costa",
+            "valor": 2962.23
+        },
+        {
+            "id": 244,
+            "vendedor": "Roberto Justos",
+            "valor": 2794.97
+        },
+        {
+            "id": 245,
+            "vendedor": "Maria Souza",
+            "valor": 3006.74
+        },
+        {
+            "id": 246,
+            "vendedor": "Ana Lima",
+            "valor": 4474.81
+        },
+        {
+            "id": 247,
+            "vendedor": "Paulo Oliveira",
+            "valor": 4430.93
+        },
+        {
+            "id": 248,
+            "vendedor": "Beatriz Santos",
+            "valor": 2719.92
+        },
+        {
+            "id": 249,
+            "vendedor": "Lucas Almeida",
+            "valor": 1034.76
+        },
+        {
+            "id": 250,
+            "vendedor": "Beatriz Santos",
+            "valor": 4356.97
+        },
+        {
+            "id": 251,
+            "vendedor": "Paulo Oliveira",
+            "valor": 2804.5
+        },
+        {
+            "id": 252,
+            "vendedor": "Fernanda Costa",
+            "valor": 2217.92
+        },
+        {
+            "id": 253,
+            "vendedor": "Maria Souza",
+            "valor": 3443.18
+        },
+        {
+            "id": 254,
+            "vendedor": "João Silva",
+            "valor": 4582.28
+        },
+        {
+            "id": 255,
+            "vendedor": "Roberto Justos",
+            "valor": 2453.01
+        },
+        {
+            "id": 256,
+            "vendedor": "Maria Souza",
+            "valor": 139.68
+        },
+        {
+            "id": 257,
+            "vendedor": "Fernanda Costa",
+            "valor": 4139.66
+        },
+        {
+            "id": 258,
+            "vendedor": "Ana Lima",
+            "valor": 2211.53
+        },
+        {
+            "id": 259,
+            "vendedor": "Armando Souto",
+            "valor": 1945.93
+        },
+        {
+            "id": 260,
+            "vendedor": "Beatriz Santos",
+            "valor": 3524.46
+        },
+        {
+            "id": 261,
+            "vendedor": "Lucas Almeida",
+            "valor": 4547.91
+        },
+        {
+            "id": 262,
+            "vendedor": "Roberto Justos",
+            "valor": 2573.16
+        },
+        {
+            "id": 263,
+            "vendedor": "Carlos Pereira",
+            "valor": 3958.91
+        },
+        {
+            "id": 264,
+            "vendedor": "Tiririca da Silva",
+            "valor": 1781.97
+        },
+        {
+            "id": 265,
+            "vendedor": "Tiririca da Silva",
+            "valor": 1520.5
+        },
+        {
+            "id": 266,
+            "vendedor": "Carlos Pereira",
+            "valor": 3542.89
+        },
+        {
+            "id": 267,
+            "vendedor": "Beatriz Santos",
+            "valor": 1411.19
+        },
+        {
+            "id": 268,
+            "vendedor": "Roberto Justos",
+            "valor": 3727.32
+        },
+        {
+            "id": 269,
+            "vendedor": "Carlos Pereira",
+            "valor": 3913.25
+        },
+        {
+            "id": 270,
+            "vendedor": "Tiririca da Silva",
+            "valor": 4972.26
+        },
+        {
+            "id": 271,
+            "vendedor": "Ana Lima",
+            "valor": 3934.22
+        },
+        {
+            "id": 272,
+            "vendedor": "Tiririca da Silva",
+            "valor": 509.15
+        },
+        {
+            "id": 273,
+            "vendedor": "Maria Souza",
+            "valor": 4653.74
+        },
+        {
+            "id": 274,
+            "vendedor": "Fernanda Costa",
+            "valor": 2174.39
+        },
+        {
+            "id": 275,
+            "vendedor": "Beatriz Santos",
+            "valor": 2395.93
+        },
+        {
+            "id": 276,
+            "vendedor": "Carlos Pereira",
+            "valor": 3799.85
+        },
+        {
+            "id": 277,
+            "vendedor": "Paulo Oliveira",
+            "valor": 1629.79
+        },
+        {
+            "id": 278,
+            "vendedor": "Armando Souto",
+            "valor": 2503.62
+        },
+        {
+            "id": 279,
+            "vendedor": "Carlos Pereira",
+            "valor": 129.32
+        },
+        {
+            "id": 280,
+            "vendedor": "Fernanda Costa",
+            "valor": 992.53
+        },
+        {
+            "id": 281,
+            "vendedor": "Armando Souto",
+            "valor": 4898.03
+        },
+        {
+            "id": 282,
+            "vendedor": "Armando Souto",
+            "valor": 4285.44
+        },
+        {
+            "id": 283,
+            "vendedor": "Ana Lima",
+            "valor": 1558.66
+        },
+        {
+            "id": 284,
+            "vendedor": "João Silva",
+            "valor": 4176.71
+        },
+        {
+            "id": 285,
+            "vendedor": "Fernanda Costa",
+            "valor": 838.02
+        },
+        {
+            "id": 286,
+            "vendedor": "Tiririca da Silva",
+            "valor": 4289.33
+        },
+        {
+            "id": 287,
+            "vendedor": "Armando Souto",
+            "valor": 1991.37
+        },
+        {
+            "id": 288,
+            "vendedor": "Roberto Justos",
+            "valor": 997.05
+        },
+        {
+            "id": 289,
+            "vendedor": "Carlos Pereira",
+            "valor": 3940.48
+        },
+        {
+            "id": 290,
+            "vendedor": "Fernanda Costa",
+            "valor": 1029.32
+        },
+        {
+            "id": 291,
+            "vendedor": "Lucas Almeida",
+            "valor": 4873.13
+        },
+        {
+            "id": 292,
+            "vendedor": "Armando Souto",
+            "valor": 313.4
+        },
+        {
+            "id": 293,
+            "vendedor": "João Silva",
+            "valor": 2429.17
+        },
+        {
+            "id": 294,
+            "vendedor": "João Silva",
+            "valor": 4382.72
+        },
+        {
+            "id": 295,
+            "vendedor": "Roberto Justos",
+            "valor": 2303.39
+        },
+        {
+            "id": 296,
+            "vendedor": "Beatriz Santos",
+            "valor": 3497.17
+        },
+        {
+            "id": 297,
+            "vendedor": "Carlos Pereira",
+            "valor": 4574.31
+        },
+        {
+            "id": 298,
+            "vendedor": "Roberto Justos",
+            "valor": 5038.21
+        },
+        {
+            "id": 299,
+            "vendedor": "Roberto Justos",
+            "valor": 4431.92
+        },
+        {
+            "id": 300,
+            "vendedor": "Fernanda Costa",
+            "valor": 2771.27
+        },
+        {
+            "id": 301,
+            "vendedor": "Carlos Pereira",
+            "valor": 2143.01
+        },
+        {
+            "id": 302,
+            "vendedor": "Armando Souto",
+            "valor": 4971.37
+        },
+        {
+            "id": 303,
+            "vendedor": "Tiririca da Silva",
+            "valor": 1307.46
+        },
+        {
+            "id": 304,
+            "vendedor": "Paulo Oliveira",
+            "valor": 336.66
+        },
+        {
+            "id": 305,
+            "vendedor": "Maria Souza",
+            "valor": 2659.7
+        },
+        {
+            "id": 306,
+            "vendedor": "Fernanda Costa",
+            "valor": 1115.12
+        },
+        {
+            "id": 307,
+            "vendedor": "Fernanda Costa",
+            "valor": 107.64
+        },
+        {
+            "id": 308,
+            "vendedor": "Tiririca da Silva",
+            "valor": 3423.73
+        },
+        {
+            "id": 309,
+            "vendedor": "Carlos Pereira",
+            "valor": 4524.52
+        },
+        {
+            "id": 310,
+            "vendedor": "Roberto Justos",
+            "valor": 2886.33
+        },
+        {
+            "id": 311,
+            "vendedor": "Maria Souza",
+            "valor": 3896.82
+        },
+        {
+            "id": 312,
+            "vendedor": "Maria Souza",
+            "valor": 4735.61
+        },
+        {
+            "id": 313,
+            "vendedor": "Tiririca da Silva",
+            "valor": 2561
+        },
+        {
+            "id": 314,
+            "vendedor": "Ana Lima",
+            "valor": 3230.12
+        },
+        {
+            "id": 315,
+            "vendedor": "João Silva",
+            "valor": 4816.34
+        },
+        {
+            "id": 316,
+            "vendedor": "Maria Souza",
+            "valor": 550.14
+        },
+        {
+            "id": 317,
+            "vendedor": "Paulo Oliveira",
+            "valor": 964
+        },
+        {
+            "id": 318,
+            "vendedor": "Maria Souza",
+            "valor": 502.07
+        },
+        {
+            "id": 319,
+            "vendedor": "Lucas Almeida",
+            "valor": 2360.78
+        },
+        {
+            "id": 320,
+            "vendedor": "Tiririca da Silva",
+            "valor": 986
+        },
+        {
+            "id": 321,
+            "vendedor": "Roberto Justos",
+            "valor": 4418.41
+        },
+        {
+            "id": 322,
+            "vendedor": "Beatriz Santos",
+            "valor": 2874.16
+        },
+        {
+            "id": 323,
+            "vendedor": "Ana Lima",
+            "valor": 4950.41
+        },
+        {
+            "id": 324,
+            "vendedor": "Maria Souza",
+            "valor": 4251.5
+        },
+        {
+            "id": 325,
+            "vendedor": "Beatriz Santos",
+            "valor": 1485.24
+        },
+        {
+            "id": 326,
+            "vendedor": "Paulo Oliveira",
+            "valor": 3652.79
+        },
+        {
+            "id": 327,
+            "vendedor": "Paulo Oliveira",
+            "valor": 1963.51
+        },
+        {
+            "id": 328,
+            "vendedor": "João Silva",
+            "valor": 304.05
+        },
+        {
+            "id": 329,
+            "vendedor": "Ana Lima",
+            "valor": 2681.37
+        },
+        {
+            "id": 330,
+            "vendedor": "Armando Souto",
+            "valor": 672.6
+        },
+        {
+            "id": 331,
+            "vendedor": "Maria Souza",
+            "valor": 882.63
+        },
+        {
+            "id": 332,
+            "vendedor": "Carlos Pereira",
+            "valor": 176.53
+        },
+        {
+            "id": 333,
+            "vendedor": "Paulo Oliveira",
+            "valor": 2485.66
+        },
+        {
+            "id": 334,
+            "vendedor": "Carlos Pereira",
+            "valor": 4633.3
+        },
+        {
+            "id": 335,
+            "vendedor": "João Silva",
+            "valor": 1972.11
+        },
+        {
+            "id": 336,
+            "vendedor": "Ana Lima",
+            "valor": 969.7
+        },
+        {
+            "id": 337,
+            "vendedor": "Tiririca da Silva",
+            "valor": 3552.14
+        },
+        {
+            "id": 338,
+            "vendedor": "Ana Lima",
+            "valor": 3995.89
+        },
+        {
+            "id": 339,
+            "vendedor": "Maria Souza",
+            "valor": 3980.5
+        },
+        {
+            "id": 340,
+            "vendedor": "Lucas Almeida",
+            "valor": 3100.04
+        },
+        {
+            "id": 341,
+            "vendedor": "Maria Souza",
+            "valor": 161.02
+        },
+        {
+            "id": 342,
+            "vendedor": "Tiririca da Silva",
+            "valor": 1070.57
+        },
+        {
+            "id": 343,
+            "vendedor": "Maria Souza",
+            "valor": 4627.56
+        },
+        {
+            "id": 344,
+            "vendedor": "Lucas Almeida",
+            "valor": 2703.95
+        },
+        {
+            "id": 345,
+            "vendedor": "Ana Lima",
+            "valor": 1955.58
+        },
+        {
+            "id": 346,
+            "vendedor": "Paulo Oliveira",
+            "valor": 1335.57
+        },
+        {
+            "id": 347,
+            "vendedor": "Paulo Oliveira",
+            "valor": 3182.14
+        },
+        {
+            "id": 348,
+            "vendedor": "Tiririca da Silva",
+            "valor": 3754.85
+        },
+        {
+            "id": 349,
+            "vendedor": "João Silva",
+            "valor": 1691.52
+        },
+        {
+            "id": 350,
+            "vendedor": "Roberto Justos",
+            "valor": 4603.44
+        },
+        {
+            "id": 351,
+            "vendedor": "Tiririca da Silva",
+            "valor": 1654.89
+        },
+        {
+            "id": 352,
+            "vendedor": "Ana Lima",
+            "valor": 2886.07
+        },
+        {
+            "id": 353,
+            "vendedor": "Lucas Almeida",
+            "valor": 1835.67
+        },
+        {
+            "id": 354,
+            "vendedor": "Tiririca da Silva",
+            "valor": 2299.51
+        },
+        {
+            "id": 355,
+            "vendedor": "João Silva",
+            "valor": 1758.19
+        },
+        {
+            "id": 356,
+            "vendedor": "Ana Lima",
+            "valor": 2295.24
+        },
+        {
+            "id": 357,
+            "vendedor": "Armando Souto",
+            "valor": 3293.19
+        },
+        {
+            "id": 358,
+            "vendedor": "Lucas Almeida",
+            "valor": 846.86
+        },
+        {
+            "id": 359,
+            "vendedor": "Lucas Almeida",
+            "valor": 4012.03
+        },
+        {
+            "id": 360,
+            "vendedor": "João Silva",
+            "valor": 2996.83
+        },
+        {
+            "id": 361,
+            "vendedor": "Ana Lima",
+            "valor": 3600.19
+        },
+        {
+            "id": 362,
+            "vendedor": "Tiririca da Silva",
+            "valor": 296.65
+        },
+        {
+            "id": 363,
+            "vendedor": "Paulo Oliveira",
+            "valor": 803.12
+        },
+        {
+            "id": 364,
+            "vendedor": "Fernanda Costa",
+            "valor": 3208.3
+        },
+        {
+            "id": 365,
+            "vendedor": "Beatriz Santos",
+            "valor": 1340.24
+        },
+        {
+            "id": 366,
+            "vendedor": "João Silva",
+            "valor": 1775.88
+        },
+        {
+            "id": 367,
+            "vendedor": "João Silva",
+            "valor": 313.57
+        },
+        {
+            "id": 368,
+            "vendedor": "Beatriz Santos",
+            "valor": 1350.54
+        },
+        {
+            "id": 369,
+            "vendedor": "Armando Souto",
+            "valor": 5027.36
+        },
+        {
+            "id": 370,
+            "vendedor": "Armando Souto",
+            "valor": 4158.74
+        },
+        {
+            "id": 371,
+            "vendedor": "Ana Lima",
+            "valor": 4902.28
+        },
+        {
+            "id": 372,
+            "vendedor": "Armando Souto",
+            "valor": 1362.57
+        },
+        {
+            "id": 373,
+            "vendedor": "Lucas Almeida",
+            "valor": 4020.2
+        },
+        {
+            "id": 374,
+            "vendedor": "Ana Lima",
+            "valor": 1086.28
+        },
+        {
+            "id": 375,
+            "vendedor": "Beatriz Santos",
+            "valor": 4306.86
+        },
+        {
+            "id": 376,
+            "vendedor": "Ana Lima",
+            "valor": 2172.56
+        },
+        {
+            "id": 377,
+            "vendedor": "Beatriz Santos",
+            "valor": 2645.1
+        },
+        {
+            "id": 378,
+            "vendedor": "Maria Souza",
+            "valor": 4254.52
+        },
+        {
+            "id": 379,
+            "vendedor": "Fernanda Costa",
+            "valor": 611.11
+        },
+        {
+            "id": 380,
+            "vendedor": "Tiririca da Silva",
+            "valor": 203.23
+        },
+        {
+            "id": 381,
+            "vendedor": "Fernanda Costa",
+            "valor": 2979.1
+        },
+        {
+            "id": 382,
+            "vendedor": "João Silva",
+            "valor": 2210.35
+        },
+        {
+            "id": 383,
+            "vendedor": "Lucas Almeida",
+            "valor": 1125.58
+        },
+        {
+            "id": 384,
+            "vendedor": "Paulo Oliveira",
+            "valor": 4368.07
+        },
+        {
+            "id": 385,
+            "vendedor": "Armando Souto",
+            "valor": 915.67
+        },
+        {
+            "id": 386,
+            "vendedor": "Paulo Oliveira",
+            "valor": 2655.94
+        },
+        {
+            "id": 387,
+            "vendedor": "Fernanda Costa",
+            "valor": 2375.75
+        },
+        {
+            "id": 388,
+            "vendedor": "Beatriz Santos",
+            "valor": 4848.13
+        },
+        {
+            "id": 389,
+            "vendedor": "Roberto Justos",
+            "valor": 443.12
+        },
+        {
+            "id": 390,
+            "vendedor": "Carlos Pereira",
+            "valor": 1345.91
+        },
+        {
+            "id": 391,
+            "vendedor": "Maria Souza",
+            "valor": 5097.15
+        },
+        {
+            "id": 392,
+            "vendedor": "Tiririca da Silva",
+            "valor": 3466.2
+        },
+        {
+            "id": 393,
+            "vendedor": "Roberto Justos",
+            "valor": 2709.41
+        },
+        {
+            "id": 394,
+            "vendedor": "Lucas Almeida",
+            "valor": 2399.73
+        },
+        {
+            "id": 395,
+            "vendedor": "Maria Souza",
+            "valor": 1066.52
+        },
+        {
+            "id": 396,
+            "vendedor": "Maria Souza",
+            "valor": 2751.73
+        },
+        {
+            "id": 397,
+            "vendedor": "Maria Souza",
+            "valor": 4343.69
+        },
+        {
+            "id": 398,
+            "vendedor": "Maria Souza",
+            "valor": 260.61
+        },
+        {
+            "id": 399,
+            "vendedor": "Beatriz Santos",
+            "valor": 1579.61
+        },
+        {
+            "id": 400,
+            "vendedor": "João Silva",
+            "valor": 1604.89
+        },
+        {
+            "id": 401,
+            "vendedor": "Roberto Justos",
+            "valor": 3607.09
+        },
+        {
+            "id": 402,
+            "vendedor": "Tiririca da Silva",
+            "valor": 1683.87
+        },
+        {
+            "id": 403,
+            "vendedor": "João Silva",
+            "valor": 1210.76
+        },
+        {
+            "id": 404,
+            "vendedor": "Lucas Almeida",
+            "valor": 1225.41
+        },
+        {
+            "id": 405,
+            "vendedor": "Armando Souto",
+            "valor": 2608.82
+        },
+        {
+            "id": 406,
+            "vendedor": "João Silva",
+            "valor": 423.99
+        },
+        {
+            "id": 407,
+            "vendedor": "Roberto Justos",
+            "valor": 4109.27
+        },
+        {
+            "id": 408,
+            "vendedor": "Fernanda Costa",
+            "valor": 1706.07
+        },
+        {
+            "id": 409,
+            "vendedor": "Ana Lima",
+            "valor": 2600.61
+        },
+        {
+            "id": 410,
+            "vendedor": "Paulo Oliveira",
+            "valor": 3161.28
+        },
+        {
+            "id": 411,
+            "vendedor": "Armando Souto",
+            "valor": 4823.11
+        },
+        {
+            "id": 412,
+            "vendedor": "Paulo Oliveira",
+            "valor": 4451.46
+        },
+        {
+            "id": 413,
+            "vendedor": "Fernanda Costa",
+            "valor": 388.66
+        },
+        {
+            "id": 414,
+            "vendedor": "Fernanda Costa",
+            "valor": 2811.09
+        },
+        {
+            "id": 415,
+            "vendedor": "Paulo Oliveira",
+            "valor": 5012.41
+        },
+        {
+            "id": 416,
+            "vendedor": "Ana Lima",
+            "valor": 3994.03
+        },
+        {
+            "id": 417,
+            "vendedor": "Maria Souza",
+            "valor": 2801.51
+        },
+        {
+            "id": 418,
+            "vendedor": "Ana Lima",
+            "valor": 1159.51
+        },
+        {
+            "id": 419,
+            "vendedor": "João Silva",
+            "valor": 3442.47
+        },
+        {
+            "id": 420,
+            "vendedor": "Maria Souza",
+            "valor": 1290.75
+        },
+        {
+            "id": 421,
+            "vendedor": "Tiririca da Silva",
+            "valor": 1517.36
+        },
+        {
+            "id": 422,
+            "vendedor": "Maria Souza",
+            "valor": 1329.59
+        },
+        {
+            "id": 423,
+            "vendedor": "Lucas Almeida",
+            "valor": 5081.28
+        },
+        {
+            "id": 424,
+            "vendedor": "Roberto Justos",
+            "valor": 2703.37
+        },
+        {
+            "id": 425,
+            "vendedor": "Armando Souto",
+            "valor": 1816.3
+        },
+        {
+            "id": 426,
+            "vendedor": "Beatriz Santos",
+            "valor": 3786.71
+        },
+        {
+            "id": 427,
+            "vendedor": "Armando Souto",
+            "valor": 735.79
+        },
+        {
+            "id": 428,
+            "vendedor": "Carlos Pereira",
+            "valor": 2264.66
+        },
+        {
+            "id": 429,
+            "vendedor": "Armando Souto",
+            "valor": 3062.22
+        },
+        {
+            "id": 430,
+            "vendedor": "Carlos Pereira",
+            "valor": 4240.24
+        },
+        {
+            "id": 431,
+            "vendedor": "Lucas Almeida",
+            "valor": 261.34
+        },
+        {
+            "id": 432,
+            "vendedor": "Maria Souza",
+            "valor": 2950.8
+        },
+        {
+            "id": 433,
+            "vendedor": "Maria Souza",
+            "valor": 4992.31
+        },
+        {
+            "id": 434,
+            "vendedor": "Ana Lima",
+            "valor": 4722.86
+        },
+        {
+            "id": 435,
+            "vendedor": "Paulo Oliveira",
+            "valor": 2554.63
+        },
+        {
+            "id": 436,
+            "vendedor": "Paulo Oliveira",
+            "valor": 4139.95
+        },
+        {
+            "id": 437,
+            "vendedor": "João Silva",
+            "valor": 3704.85
+        },
+        {
+            "id": 438,
+            "vendedor": "Armando Souto",
+            "valor": 2492.63
+        },
+        {
+            "id": 439,
+            "vendedor": "Armando Souto",
+            "valor": 3984.5
+        },
+        {
+            "id": 440,
+            "vendedor": "Ana Lima",
+            "valor": 609.86
+        },
+        {
+            "id": 441,
+            "vendedor": "Beatriz Santos",
+            "valor": 3566.66
+        },
+        {
+            "id": 442,
+            "vendedor": "João Silva",
+            "valor": 1277.36
+        },
+        {
+            "id": 443,
+            "vendedor": "Maria Souza",
+            "valor": 1522.38
+        },
+        {
+            "id": 444,
+            "vendedor": "Lucas Almeida",
+            "valor": 2723.57
+        },
+        {
+            "id": 445,
+            "vendedor": "João Silva",
+            "valor": 4373.82
+        },
+        {
+            "id": 446,
+            "vendedor": "Beatriz Santos",
+            "valor": 3755.35
+        },
+        {
+            "id": 447,
+            "vendedor": "Lucas Almeida",
+            "valor": 1441.54
+        },
+        {
+            "id": 448,
+            "vendedor": "Roberto Justos",
+            "valor": 436.37
+        },
+        {
+            "id": 449,
+            "vendedor": "Lucas Almeida",
+            "valor": 4969.9
+        },
+        {
+            "id": 450,
+            "vendedor": "Maria Souza",
+            "valor": 2411.93
+        },
+        {
+            "id": 451,
+            "vendedor": "Fernanda Costa",
+            "valor": 5023.09
+        },
+        {
+            "id": 452,
+            "vendedor": "Maria Souza",
+            "valor": 3920.88
+        },
+        {
+            "id": 453,
+            "vendedor": "Carlos Pereira",
+            "valor": 4289.97
+        },
+        {
+            "id": 454,
+            "vendedor": "Maria Souza",
+            "valor": 2542.81
+        },
+        {
+            "id": 455,
+            "vendedor": "Beatriz Santos",
+            "valor": 2554.39
+        },
+        {
+            "id": 456,
+            "vendedor": "Ana Lima",
+            "valor": 757.6
+        },
+        {
+            "id": 457,
+            "vendedor": "Tiririca da Silva",
+            "valor": 2423.31
+        },
+        {
+            "id": 458,
+            "vendedor": "Armando Souto",
+            "valor": 3257.86
+        },
+        {
+            "id": 459,
+            "vendedor": "Ana Lima",
+            "valor": 2735.75
+        },
+        {
+            "id": 460,
+            "vendedor": "Armando Souto",
+            "valor": 5094.46
+        },
+        {
+            "id": 461,
+            "vendedor": "Ana Lima",
+            "valor": 3643.64
+        },
+        {
+            "id": 462,
+            "vendedor": "Lucas Almeida",
+            "valor": 5006.85
+        },
+        {
+            "id": 463,
+            "vendedor": "Armando Souto",
+            "valor": 3485.66
+        },
+        {
+            "id": 464,
+            "vendedor": "Paulo Oliveira",
+            "valor": 3116.49
+        },
+        {
+            "id": 465,
+            "vendedor": "Tiririca da Silva",
+            "valor": 226.64
+        },
+        {
+            "id": 466,
+            "vendedor": "Paulo Oliveira",
+            "valor": 1906.32
+        },
+        {
+            "id": 467,
+            "vendedor": "Lucas Almeida",
+            "valor": 2721.24
+        },
+        {
+            "id": 468,
+            "vendedor": "João Silva",
+            "valor": 4305.04
+        },
+        {
+            "id": 469,
+            "vendedor": "Lucas Almeida",
+            "valor": 4690.8
+        },
+        {
+            "id": 470,
+            "vendedor": "Armando Souto",
+            "valor": 813.04
+        },
+        {
+            "id": 471,
+            "vendedor": "Armando Souto",
+            "valor": 4809.71
+        },
+        {
+            "id": 472,
+            "vendedor": "Armando Souto",
+            "valor": 1226.86
+        },
+        {
+            "id": 473,
+            "vendedor": "Tiririca da Silva",
+            "valor": 3325.97
+        },
+        {
+            "id": 474,
+            "vendedor": "Lucas Almeida",
+            "valor": 3027.76
+        },
+        {
+            "id": 475,
+            "vendedor": "João Silva",
+            "valor": 299.83
+        },
+        {
+            "id": 476,
+            "vendedor": "Lucas Almeida",
+            "valor": 318.49
+        },
+        {
+            "id": 477,
+            "vendedor": "João Silva",
+            "valor": 5097.53
+        },
+        {
+            "id": 478,
+            "vendedor": "Roberto Justos",
+            "valor": 2822.83
+        },
+        {
+            "id": 479,
+            "vendedor": "Fernanda Costa",
+            "valor": 3631.17
+        },
+        {
+            "id": 480,
+            "vendedor": "Roberto Justos",
+            "valor": 2916.91
+        },
+        {
+            "id": 481,
+            "vendedor": "Carlos Pereira",
+            "valor": 1142.22
+        },
+        {
+            "id": 482,
+            "vendedor": "Beatriz Santos",
+            "valor": 338.67
+        },
+        {
+            "id": 483,
+            "vendedor": "Armando Souto",
+            "valor": 2997.6
+        },
+        {
+            "id": 484,
+            "vendedor": "Ana Lima",
+            "valor": 4984.2
+        },
+        {
+            "id": 485,
+            "vendedor": "Maria Souza",
+            "valor": 4325.11
+        },
+        {
+            "id": 486,
+            "vendedor": "Lucas Almeida",
+            "valor": 1051.45
+        },
+        {
+            "id": 487,
+            "vendedor": "Lucas Almeida",
+            "valor": 4191.11
+        },
+        {
+            "id": 488,
+            "vendedor": "Maria Souza",
+            "valor": 2123.18
+        },
+        {
+            "id": 489,
+            "vendedor": "Lucas Almeida",
+            "valor": 2269.43
+        },
+        {
+            "id": 490,
+            "vendedor": "Tiririca da Silva",
+            "valor": 274.37
+        },
+        {
+            "id": 491,
+            "vendedor": "Tiririca da Silva",
+            "valor": 516.78
+        },
+        {
+            "id": 492,
+            "vendedor": "Fernanda Costa",
+            "valor": 1693.24
+        },
+        {
+            "id": 493,
+            "vendedor": "Maria Souza",
+            "valor": 373.79
+        },
+        {
+            "id": 494,
+            "vendedor": "Tiririca da Silva",
+            "valor": 4579.63
+        },
+        {
+            "id": 495,
+            "vendedor": "Armando Souto",
+            "valor": 4263.62
+        },
+        {
+            "id": 496,
+            "vendedor": "Tiririca da Silva",
+            "valor": 523.83
+        },
+        {
+            "id": 497,
+            "vendedor": "Armando Souto",
+            "valor": 570.68
+        },
+        {
+            "id": 498,
+            "vendedor": "Fernanda Costa",
+            "valor": 463.83
+        },
+        {
+            "id": 499,
+            "vendedor": "Beatriz Santos",
+            "valor": 3135.9
+        },
+        {
+            "id": 500,
+            "vendedor": "João Silva",
+            "valor": 3389.47
+        },
+        {
+            "id": 501,
+            "vendedor": "João Silva",
+            "valor": 2143.52
+        },
+        {
+            "id": 502,
+            "vendedor": "Lucas Almeida",
+            "valor": 3513.56
+        },
+        {
+            "id": 503,
+            "vendedor": "Armando Souto",
+            "valor": 465.84
+        },
+        {
+            "id": 504,
+            "vendedor": "João Silva",
+            "valor": 4012.36
+        },
+        {
+            "id": 505,
+            "vendedor": "Paulo Oliveira",
+            "valor": 113.71
+        },
+        {
+            "id": 506,
+            "vendedor": "Lucas Almeida",
+            "valor": 1005.33
+        },
+        {
+            "id": 507,
+            "vendedor": "Lucas Almeida",
+            "valor": 2778.01
+        },
+        {
+            "id": 508,
+            "vendedor": "Lucas Almeida",
+            "valor": 1312.47
+        },
+        {
+            "id": 509,
+            "vendedor": "Carlos Pereira",
+            "valor": 1374.5
+        },
+        {
+            "id": 510,
+            "vendedor": "Fernanda Costa",
+            "valor": 1440.24
+        },
+        {
+            "id": 511,
+            "vendedor": "Tiririca da Silva",
+            "valor": 2776.47
+        },
+        {
+            "id": 512,
+            "vendedor": "Lucas Almeida",
+            "valor": 835.32
+        },
+        {
+            "id": 513,
+            "vendedor": "Roberto Justos",
+            "valor": 1467.52
+        },
+        {
+            "id": 514,
+            "vendedor": "Roberto Justos",
+            "valor": 3915.89
+        },
+        {
+            "id": 515,
+            "vendedor": "Roberto Justos",
+            "valor": 5022.82
+        },
+        {
+            "id": 516,
+            "vendedor": "Carlos Pereira",
+            "valor": 265.27
+        },
+        {
+            "id": 517,
+            "vendedor": "João Silva",
+            "valor": 2735.37
+        },
+        {
+            "id": 518,
+            "vendedor": "Armando Souto",
+            "valor": 2377.73
+        },
+        {
+            "id": 519,
+            "vendedor": "Lucas Almeida",
+            "valor": 3729.8
+        },
+        {
+            "id": 520,
+            "vendedor": "Maria Souza",
+            "valor": 1428.57
+        },
+        {
+            "id": 521,
+            "vendedor": "Fernanda Costa",
+            "valor": 2896.94
+        },
+        {
+            "id": 522,
+            "vendedor": "Tiririca da Silva",
+            "valor": 4248.07
+        },
+        {
+            "id": 523,
+            "vendedor": "Roberto Justos",
+            "valor": 2762.52
+        },
+        {
+            "id": 524,
+            "vendedor": "Roberto Justos",
+            "valor": 873.65
+        },
+        {
+            "id": 525,
+            "vendedor": "Carlos Pereira",
+            "valor": 3712.23
+        },
+        {
+            "id": 526,
+            "vendedor": "Beatriz Santos",
+            "valor": 4616.25
+        },
+        {
+            "id": 527,
+            "vendedor": "Carlos Pereira",
+            "valor": 2659.95
+        },
+        {
+            "id": 528,
+            "vendedor": "Roberto Justos",
+            "valor": 2235.55
+        },
+        {
+            "id": 529,
+            "vendedor": "Carlos Pereira",
+            "valor": 4191.74
+        },
+        {
+            "id": 530,
+            "vendedor": "Ana Lima",
+            "valor": 4238.84
+        },
+        {
+            "id": 531,
+            "vendedor": "João Silva",
+            "valor": 1711.87
+        },
+        {
+            "id": 532,
+            "vendedor": "Fernanda Costa",
+            "valor": 4596.03
+        },
+        {
+            "id": 533,
+            "vendedor": "Carlos Pereira",
+            "valor": 1640.51
+        },
+        {
+            "id": 534,
+            "vendedor": "João Silva",
+            "valor": 1478.63
+        },
+        {
+            "id": 535,
+            "vendedor": "Fernanda Costa",
+            "valor": 2336.34
+        },
+        {
+            "id": 536,
+            "vendedor": "Beatriz Santos",
+            "valor": 4674.45
+        },
+        {
+            "id": 537,
+            "vendedor": "Paulo Oliveira",
+            "valor": 1198.67
+        },
+        {
+            "id": 538,
+            "vendedor": "Armando Souto",
+            "valor": 2435.36
+        },
+        {
+            "id": 539,
+            "vendedor": "Maria Souza",
+            "valor": 3608.27
+        },
+        {
+            "id": 540,
+            "vendedor": "Tiririca da Silva",
+            "valor": 1001.47
+        },
+        {
+            "id": 541,
+            "vendedor": "Fernanda Costa",
+            "valor": 782.83
+        },
+        {
+            "id": 542,
+            "vendedor": "Roberto Justos",
+            "valor": 2495.8
+        },
+        {
+            "id": 543,
+            "vendedor": "João Silva",
+            "valor": 4283.8
+        },
+        {
+            "id": 544,
+            "vendedor": "Maria Souza",
+            "valor": 2438.85
+        },
+        {
+            "id": 545,
+            "vendedor": "João Silva",
+            "valor": 1338.97
+        },
+        {
+            "id": 546,
+            "vendedor": "Fernanda Costa",
+            "valor": 2343.86
+        },
+        {
+            "id": 547,
+            "vendedor": "João Silva",
+            "valor": 3347.69
+        },
+        {
+            "id": 548,
+            "vendedor": "Lucas Almeida",
+            "valor": 4686.94
+        },
+        {
+            "id": 549,
+            "vendedor": "Lucas Almeida",
+            "valor": 440.14
+        },
+        {
+            "id": 550,
+            "vendedor": "Ana Lima",
+            "valor": 1190.7
+        },
+        {
+            "id": 551,
+            "vendedor": "Lucas Almeida",
+            "valor": 2775.09
+        },
+        {
+            "id": 552,
+            "vendedor": "Carlos Pereira",
+            "valor": 4221.5
+        },
+        {
+            "id": 553,
+            "vendedor": "Armando Souto",
+            "valor": 2041.8
+        },
+        {
+            "id": 554,
+            "vendedor": "Ana Lima",
+            "valor": 2568.74
+        },
+        {
+            "id": 555,
+            "vendedor": "Armando Souto",
+            "valor": 3058.26
+        },
+        {
+            "id": 556,
+            "vendedor": "Ana Lima",
+            "valor": 1476.16
+        },
+        {
+            "id": 557,
+            "vendedor": "Armando Souto",
+            "valor": 1140.94
+        },
+        {
+            "id": 558,
+            "vendedor": "Ana Lima",
+            "valor": 1176.38
+        },
+        {
+            "id": 559,
+            "vendedor": "Carlos Pereira",
+            "valor": 1899.5
+        },
+        {
+            "id": 560,
+            "vendedor": "Tiririca da Silva",
+            "valor": 2895.26
+        },
+        {
+            "id": 561,
+            "vendedor": "Ana Lima",
+            "valor": 1266.85
+        },
+        {
+            "id": 562,
+            "vendedor": "Tiririca da Silva",
+            "valor": 2216.64
+        },
+        {
+            "id": 563,
+            "vendedor": "João Silva",
+            "valor": 4096.62
+        },
+        {
+            "id": 564,
+            "vendedor": "Lucas Almeida",
+            "valor": 1344
+        },
+        {
+            "id": 565,
+            "vendedor": "Beatriz Santos",
+            "valor": 2332.68
+        },
+        {
+            "id": 566,
+            "vendedor": "Roberto Justos",
+            "valor": 1016.06
+        },
+        {
+            "id": 567,
+            "vendedor": "Ana Lima",
+            "valor": 2724.11
+        },
+        {
+            "id": 568,
+            "vendedor": "Armando Souto",
+            "valor": 1437.2
+        },
+        {
+            "id": 569,
+            "vendedor": "João Silva",
+            "valor": 4223.52
+        },
+        {
+            "id": 570,
+            "vendedor": "Carlos Pereira",
+            "valor": 4199.5
+        },
+        {
+            "id": 571,
+            "vendedor": "Beatriz Santos",
+            "valor": 174.26
+        },
+        {
+            "id": 572,
+            "vendedor": "Beatriz Santos",
+            "valor": 3801.08
+        },
+        {
+            "id": 573,
+            "vendedor": "Paulo Oliveira",
+            "valor": 1588.33
+        },
+        {
+            "id": 574,
+            "vendedor": "Roberto Justos",
+            "valor": 3063.02
+        },
+        {
+            "id": 575,
+            "vendedor": "Paulo Oliveira",
+            "valor": 1016.64
+        },
+        {
+            "id": 576,
+            "vendedor": "Ana Lima",
+            "valor": 3438.57
+        },
+        {
+            "id": 577,
+            "vendedor": "Lucas Almeida",
+            "valor": 2569.25
+        },
+        {
+            "id": 578,
+            "vendedor": "Carlos Pereira",
+            "valor": 1977.68
+        },
+        {
+            "id": 579,
+            "vendedor": "Roberto Justos",
+            "valor": 4378.56
+        },
+        {
+            "id": 580,
+            "vendedor": "João Silva",
+            "valor": 2956.15
+        },
+        {
+            "id": 581,
+            "vendedor": "Armando Souto",
+            "valor": 2010.24
+        },
+        {
+            "id": 582,
+            "vendedor": "Armando Souto",
+            "valor": 1057.66
+        },
+        {
+            "id": 583,
+            "vendedor": "Maria Souza",
+            "valor": 2928.94
+        },
+        {
+            "id": 584,
+            "vendedor": "Lucas Almeida",
+            "valor": 2969.9
+        },
+        {
+            "id": 585,
+            "vendedor": "Roberto Justos",
+            "valor": 3341.99
+        },
+        {
+            "id": 586,
+            "vendedor": "Tiririca da Silva",
+            "valor": 429.33
+        },
+        {
+            "id": 587,
+            "vendedor": "Paulo Oliveira",
+            "valor": 4609.54
+        },
+        {
+            "id": 588,
+            "vendedor": "Lucas Almeida",
+            "valor": 1402.46
+        },
+        {
+            "id": 589,
+            "vendedor": "Fernanda Costa",
+            "valor": 1616.29
+        },
+        {
+            "id": 590,
+            "vendedor": "Armando Souto",
+            "valor": 4756.63
+        },
+        {
+            "id": 591,
+            "vendedor": "João Silva",
+            "valor": 3199.24
+        },
+        {
+            "id": 592,
+            "vendedor": "Maria Souza",
+            "valor": 2286.15
+        },
+        {
+            "id": 593,
+            "vendedor": "Maria Souza",
+            "valor": 587.88
+        },
+        {
+            "id": 594,
+            "vendedor": "Roberto Justos",
+            "valor": 1940.2
+        },
+        {
+            "id": 595,
+            "vendedor": "Roberto Justos",
+            "valor": 2334.28
+        },
+        {
+            "id": 596,
+            "vendedor": "Carlos Pereira",
+            "valor": 2537.36
+        },
+        {
+            "id": 597,
+            "vendedor": "Roberto Justos",
+            "valor": 4510.35
+        },
+        {
+            "id": 598,
+            "vendedor": "Ana Lima",
+            "valor": 4455.89
+        },
+        {
+            "id": 599,
+            "vendedor": "Maria Souza",
+            "valor": 1295.67
+        },
+        {
+            "id": 600,
+            "vendedor": "Lucas Almeida",
+            "valor": 435.51
+        },
+        {
+            "id": 601,
+            "vendedor": "Lucas Almeida",
+            "valor": 307.24
+        },
+        {
+            "id": 602,
+            "vendedor": "Fernanda Costa",
+            "valor": 3728.94
+        },
+        {
+            "id": 603,
+            "vendedor": "Roberto Justos",
+            "valor": 4047.99
+        },
+        {
+            "id": 604,
+            "vendedor": "Roberto Justos",
+            "valor": 1418.76
+        },
+        {
+            "id": 605,
+            "vendedor": "Maria Souza",
+            "valor": 2720.96
+        },
+        {
+            "id": 606,
+            "vendedor": "Roberto Justos",
+            "valor": 4898.5
+        },
+        {
+            "id": 607,
+            "vendedor": "Maria Souza",
+            "valor": 1009.91
+        },
+        {
+            "id": 608,
+            "vendedor": "Ana Lima",
+            "valor": 2142.01
+        },
+        {
+            "id": 609,
+            "vendedor": "Fernanda Costa",
+            "valor": 893.41
+        },
+        {
+            "id": 610,
+            "vendedor": "Ana Lima",
+            "valor": 1236.1
+        },
+        {
+            "id": 611,
+            "vendedor": "Tiririca da Silva",
+            "valor": 4177.94
+        },
+        {
+            "id": 612,
+            "vendedor": "Carlos Pereira",
+            "valor": 1000.99
+        },
+        {
+            "id": 613,
+            "vendedor": "Tiririca da Silva",
+            "valor": 4362.57
+        },
+        {
+            "id": 614,
+            "vendedor": "Carlos Pereira",
+            "valor": 2476.28
+        },
+        {
+            "id": 615,
+            "vendedor": "Roberto Justos",
+            "valor": 5064.52
+        },
+        {
+            "id": 616,
+            "vendedor": "Lucas Almeida",
+            "valor": 2712.51
+        },
+        {
+            "id": 617,
+            "vendedor": "Tiririca da Silva",
+            "valor": 2616.93
+        },
+        {
+            "id": 618,
+            "vendedor": "João Silva",
+            "valor": 4921.74
+        },
+        {
+            "id": 619,
+            "vendedor": "Maria Souza",
+            "valor": 3952.01
+        },
+        {
+            "id": 620,
+            "vendedor": "Tiririca da Silva",
+            "valor": 3623.29
+        },
+        {
+            "id": 621,
+            "vendedor": "João Silva",
+            "valor": 927.18
+        },
+        {
+            "id": 622,
+            "vendedor": "Ana Lima",
+            "valor": 4183.21
+        },
+        {
+            "id": 623,
+            "vendedor": "Ana Lima",
+            "valor": 2864.68
+        },
+        {
+            "id": 624,
+            "vendedor": "Armando Souto",
+            "valor": 4103.67
+        },
+        {
+            "id": 625,
+            "vendedor": "Ana Lima",
+            "valor": 4139.8
+        },
+        {
+            "id": 626,
+            "vendedor": "Roberto Justos",
+            "valor": 1486.32
+        },
+        {
+            "id": 627,
+            "vendedor": "Roberto Justos",
+            "valor": 394.39
+        },
+        {
+            "id": 628,
+            "vendedor": "Maria Souza",
+            "valor": 1147.19
+        },
+        {
+            "id": 629,
+            "vendedor": "Maria Souza",
+            "valor": 3367.36
+        },
+        {
+            "id": 630,
+            "vendedor": "Beatriz Santos",
+            "valor": 109.79
+        },
+        {
+            "id": 631,
+            "vendedor": "Lucas Almeida",
+            "valor": 149.32
+        },
+        {
+            "id": 632,
+            "vendedor": "Tiririca da Silva",
+            "valor": 184.77
+        },
+        {
+            "id": 633,
+            "vendedor": "João Silva",
+            "valor": 3773.69
+        },
+        {
+            "id": 634,
+            "vendedor": "Maria Souza",
+            "valor": 3338.92
+        },
+        {
+            "id": 635,
+            "vendedor": "Maria Souza",
+            "valor": 1011.59
+        },
+        {
+            "id": 636,
+            "vendedor": "João Silva",
+            "valor": 2664.87
+        },
+        {
+            "id": 637,
+            "vendedor": "Fernanda Costa",
+            "valor": 745.4
+        },
+        {
+            "id": 638,
+            "vendedor": "Carlos Pereira",
+            "valor": 2789.35
+        },
+        {
+            "id": 639,
+            "vendedor": "João Silva",
+            "valor": 1045.12
+        },
+        {
+            "id": 640,
+            "vendedor": "Beatriz Santos",
+            "valor": 3427.63
+        },
+        {
+            "id": 641,
+            "vendedor": "Roberto Justos",
+            "valor": 3559
+        },
+        {
+            "id": 642,
+            "vendedor": "Lucas Almeida",
+            "valor": 1715.8
+        },
+        {
+            "id": 643,
+            "vendedor": "Armando Souto",
+            "valor": 4510.68
+        },
+        {
+            "id": 644,
+            "vendedor": "Paulo Oliveira",
+            "valor": 1680.02
+        },
+        {
+            "id": 645,
+            "vendedor": "Beatriz Santos",
+            "valor": 1707.54
+        },
+        {
+            "id": 646,
+            "vendedor": "Fernanda Costa",
+            "valor": 4757.52
+        },
+        {
+            "id": 647,
+            "vendedor": "Beatriz Santos",
+            "valor": 672.09
+        },
+        {
+            "id": 648,
+            "vendedor": "Carlos Pereira",
+            "valor": 4715.1
+        },
+        {
+            "id": 649,
+            "vendedor": "Carlos Pereira",
+            "valor": 1369.66
+        },
+        {
+            "id": 650,
+            "vendedor": "Beatriz Santos",
+            "valor": 4594.85
+        },
+        {
+            "id": 651,
+            "vendedor": "Beatriz Santos",
+            "valor": 1177.85
+        },
+        {
+            "id": 652,
+            "vendedor": "João Silva",
+            "valor": 3811.45
+        },
+        {
+            "id": 653,
+            "vendedor": "Maria Souza",
+            "valor": 3127.07
+        },
+        {
+            "id": 654,
+            "vendedor": "Lucas Almeida",
+            "valor": 119.79
+        },
+        {
+            "id": 655,
+            "vendedor": "Beatriz Santos",
+            "valor": 4949.73
+        },
+        {
+            "id": 656,
+            "vendedor": "Maria Souza",
+            "valor": 1196.18
+        },
+        {
+            "id": 657,
+            "vendedor": "Carlos Pereira",
+            "valor": 4987.68
+        },
+        {
+            "id": 658,
+            "vendedor": "Ana Lima",
+            "valor": 4366.15
+        },
+        {
+            "id": 659,
+            "vendedor": "Maria Souza",
+            "valor": 390.24
+        },
+        {
+            "id": 660,
+            "vendedor": "Beatriz Santos",
+            "valor": 1002.61
+        },
+        {
+            "id": 661,
+            "vendedor": "Fernanda Costa",
+            "valor": 3079.03
+        },
+        {
+            "id": 662,
+            "vendedor": "Maria Souza",
+            "valor": 3931.18
+        },
+        {
+            "id": 663,
+            "vendedor": "Fernanda Costa",
+            "valor": 2124.57
+        },
+        {
+            "id": 664,
+            "vendedor": "Maria Souza",
+            "valor": 4157.17
+        },
+        {
+            "id": 665,
+            "vendedor": "Beatriz Santos",
+            "valor": 5038.23
+        },
+        {
+            "id": 666,
+            "vendedor": "Carlos Pereira",
+            "valor": 5038.02
+        },
+        {
+            "id": 667,
+            "vendedor": "Tiririca da Silva",
+            "valor": 1506.76
+        },
+        {
+            "id": 668,
+            "vendedor": "Carlos Pereira",
+            "valor": 897.78
+        },
+        {
+            "id": 669,
+            "vendedor": "João Silva",
+            "valor": 1694.47
+        },
+        {
+            "id": 670,
+            "vendedor": "Beatriz Santos",
+            "valor": 3504.19
+        },
+        {
+            "id": 671,
+            "vendedor": "Ana Lima",
+            "valor": 4703.38
+        },
+        {
+            "id": 672,
+            "vendedor": "Roberto Justos",
+            "valor": 2712.03
+        },
+        {
+            "id": 673,
+            "vendedor": "Fernanda Costa",
+            "valor": 2299.86
+        },
+        {
+            "id": 674,
+            "vendedor": "Fernanda Costa",
+            "valor": 2580.38
+        },
+        {
+            "id": 675,
+            "vendedor": "Armando Souto",
+            "valor": 1473.03
+        },
+        {
+            "id": 676,
+            "vendedor": "Beatriz Santos",
+            "valor": 599.24
+        },
+        {
+            "id": 677,
+            "vendedor": "Tiririca da Silva",
+            "valor": 4382.89
+        },
+        {
+            "id": 678,
+            "vendedor": "Maria Souza",
+            "valor": 3345.81
+        },
+        {
+            "id": 679,
+            "vendedor": "Lucas Almeida",
+            "valor": 1434.44
+        },
+        {
+            "id": 680,
+            "vendedor": "João Silva",
+            "valor": 3236.48
+        },
+        {
+            "id": 681,
+            "vendedor": "Armando Souto",
+            "valor": 896.23
+        },
+        {
+            "id": 682,
+            "vendedor": "Ana Lima",
+            "valor": 2012.67
+        },
+        {
+            "id": 683,
+            "vendedor": "João Silva",
+            "valor": 101.47
+        },
+        {
+            "id": 684,
+            "vendedor": "Beatriz Santos",
+            "valor": 4435.09
+        },
+        {
+            "id": 685,
+            "vendedor": "Carlos Pereira",
+            "valor": 3873.69
+        },
+        {
+            "id": 686,
+            "vendedor": "Fernanda Costa",
+            "valor": 4252.12
+        },
+        {
+            "id": 687,
+            "vendedor": "Tiririca da Silva",
+            "valor": 2664.24
+        },
+        {
+            "id": 688,
+            "vendedor": "Beatriz Santos",
+            "valor": 3187.64
+        },
+        {
+            "id": 689,
+            "vendedor": "Lucas Almeida",
+            "valor": 4948.57
+        },
+        {
+            "id": 690,
+            "vendedor": "Paulo Oliveira",
+            "valor": 3690.31
+        },
+        {
+            "id": 691,
+            "vendedor": "Beatriz Santos",
+            "valor": 3731.06
+        },
+        {
+            "id": 692,
+            "vendedor": "Ana Lima",
+            "valor": 1711.1
+        },
+        {
+            "id": 693,
+            "vendedor": "Roberto Justos",
+            "valor": 1926.61
+        },
+        {
+            "id": 694,
+            "vendedor": "Armando Souto",
+            "valor": 4319.84
+        },
+        {
+            "id": 695,
+            "vendedor": "Tiririca da Silva",
+            "valor": 1459.34
+        },
+        {
+            "id": 696,
+            "vendedor": "Tiririca da Silva",
+            "valor": 1594.64
+        },
+        {
+            "id": 697,
+            "vendedor": "Beatriz Santos",
+            "valor": 3737.7
+        },
+        {
+            "id": 698,
+            "vendedor": "Ana Lima",
+            "valor": 2181.37
+        },
+        {
+            "id": 699,
+            "vendedor": "Ana Lima",
+            "valor": 717.58
+        },
+        {
+            "id": 700,
+            "vendedor": "Maria Souza",
+            "valor": 5047.31
+        },
+        {
+            "id": 701,
+            "vendedor": "Paulo Oliveira",
+            "valor": 2739.82
+        },
+        {
+            "id": 702,
+            "vendedor": "Tiririca da Silva",
+            "valor": 961.58
+        },
+        {
+            "id": 703,
+            "vendedor": "Armando Souto",
+            "valor": 322.11
+        },
+        {
+            "id": 704,
+            "vendedor": "Paulo Oliveira",
+            "valor": 2812.59
+        },
+        {
+            "id": 705,
+            "vendedor": "Roberto Justos",
+            "valor": 2963.32
+        },
+        {
+            "id": 706,
+            "vendedor": "João Silva",
+            "valor": 3579.99
+        },
+        {
+            "id": 707,
+            "vendedor": "Roberto Justos",
+            "valor": 1241.25
+        },
+        {
+            "id": 708,
+            "vendedor": "Armando Souto",
+            "valor": 5055.83
+        },
+        {
+            "id": 709,
+            "vendedor": "João Silva",
+            "valor": 3247.4
+        },
+        {
+            "id": 710,
+            "vendedor": "Ana Lima",
+            "valor": 4614.06
+        },
+        {
+            "id": 711,
+            "vendedor": "Ana Lima",
+            "valor": 3547.46
+        },
+        {
+            "id": 712,
+            "vendedor": "Beatriz Santos",
+            "valor": 2001.79
+        },
+        {
+            "id": 713,
+            "vendedor": "Carlos Pereira",
+            "valor": 1985.06
+        },
+        {
+            "id": 714,
+            "vendedor": "Tiririca da Silva",
+            "valor": 375.1
+        },
+        {
+            "id": 715,
+            "vendedor": "Roberto Justos",
+            "valor": 4478.56
+        },
+        {
+            "id": 716,
+            "vendedor": "Fernanda Costa",
+            "valor": 3523.94
+        },
+        {
+            "id": 717,
+            "vendedor": "Armando Souto",
+            "valor": 1298.79
+        },
+        {
+            "id": 718,
+            "vendedor": "Beatriz Santos",
+            "valor": 524.38
+        },
+        {
+            "id": 719,
+            "vendedor": "Lucas Almeida",
+            "valor": 2846.97
+        },
+        {
+            "id": 720,
+            "vendedor": "Ana Lima",
+            "valor": 4569.83
+        },
+        {
+            "id": 721,
+            "vendedor": "Fernanda Costa",
+            "valor": 808.91
+        },
+        {
+            "id": 722,
+            "vendedor": "Roberto Justos",
+            "valor": 2874.88
+        },
+        {
+            "id": 723,
+            "vendedor": "Roberto Justos",
+            "valor": 3035.51
+        },
+        {
+            "id": 724,
+            "vendedor": "Roberto Justos",
+            "valor": 1816.04
+        },
+        {
+            "id": 725,
+            "vendedor": "Ana Lima",
+            "valor": 4873.41
+        },
+        {
+            "id": 726,
+            "vendedor": "Roberto Justos",
+            "valor": 669.41
+        },
+        {
+            "id": 727,
+            "vendedor": "Roberto Justos",
+            "valor": 3766.56
+        },
+        {
+            "id": 728,
+            "vendedor": "Paulo Oliveira",
+            "valor": 4099.73
+        },
+        {
+            "id": 729,
+            "vendedor": "Paulo Oliveira",
+            "valor": 5076.05
+        },
+        {
+            "id": 730,
+            "vendedor": "Lucas Almeida",
+            "valor": 4282.37
+        },
+        {
+            "id": 731,
+            "vendedor": "Lucas Almeida",
+            "valor": 1008.14
+        },
+        {
+            "id": 732,
+            "vendedor": "Tiririca da Silva",
+            "valor": 4398.11
+        },
+        {
+            "id": 733,
+            "vendedor": "Paulo Oliveira",
+            "valor": 171.56
+        },
+        {
+            "id": 734,
+            "vendedor": "Armando Souto",
+            "valor": 5004.48
+        },
+        {
+            "id": 735,
+            "vendedor": "Tiririca da Silva",
+            "valor": 819.97
+        },
+        {
+            "id": 736,
+            "vendedor": "João Silva",
+            "valor": 3422.99
+        },
+        {
+            "id": 737,
+            "vendedor": "Armando Souto",
+            "valor": 1455.16
+        },
+        {
+            "id": 738,
+            "vendedor": "Roberto Justos",
+            "valor": 4873.38
+        },
+        {
+            "id": 739,
+            "vendedor": "Tiririca da Silva",
+            "valor": 3006.32
+        },
+        {
+            "id": 740,
+            "vendedor": "Tiririca da Silva",
+            "valor": 335.09
+        },
+        {
+            "id": 741,
+            "vendedor": "Armando Souto",
+            "valor": 4830.42
+        },
+        {
+            "id": 742,
+            "vendedor": "Tiririca da Silva",
+            "valor": 3984.95
+        },
+        {
+            "id": 743,
+            "vendedor": "Armando Souto",
+            "valor": 982.74
+        },
+        {
+            "id": 744,
+            "vendedor": "João Silva",
+            "valor": 2047.24
+        },
+        {
+            "id": 745,
+            "vendedor": "João Silva",
+            "valor": 757.77
+        },
+        {
+            "id": 746,
+            "vendedor": "Maria Souza",
+            "valor": 2044.74
+        },
+        {
+            "id": 747,
+            "vendedor": "Lucas Almeida",
+            "valor": 270.89
+        },
+        {
+            "id": 748,
+            "vendedor": "Armando Souto",
+            "valor": 3758.18
+        },
+        {
+            "id": 749,
+            "vendedor": "Tiririca da Silva",
+            "valor": 2978.28
+        },
+        {
+            "id": 750,
+            "vendedor": "Carlos Pereira",
+            "valor": 4736.77
+        },
+        {
+            "id": 751,
+            "vendedor": "Roberto Justos",
+            "valor": 606.64
+        },
+        {
+            "id": 752,
+            "vendedor": "Fernanda Costa",
+            "valor": 1019
+        },
+        {
+            "id": 753,
+            "vendedor": "João Silva",
+            "valor": 5049.62
+        },
+        {
+            "id": 754,
+            "vendedor": "Roberto Justos",
+            "valor": 468.25
+        },
+        {
+            "id": 755,
+            "vendedor": "Fernanda Costa",
+            "valor": 3154.84
+        },
+        {
+            "id": 756,
+            "vendedor": "Armando Souto",
+            "valor": 4659.36
+        },
+        {
+            "id": 757,
+            "vendedor": "Roberto Justos",
+            "valor": 3595.43
+        },
+        {
+            "id": 758,
+            "vendedor": "Maria Souza",
+            "valor": 3002.97
+        },
+        {
+            "id": 759,
+            "vendedor": "Maria Souza",
+            "valor": 703.72
+        },
+        {
+            "id": 760,
+            "vendedor": "Armando Souto",
+            "valor": 3340.72
+        },
+        {
+            "id": 761,
+            "vendedor": "Paulo Oliveira",
+            "valor": 1783.73
+        },
+        {
+            "id": 762,
+            "vendedor": "Armando Souto",
+            "valor": 2425.81
+        },
+        {
+            "id": 763,
+            "vendedor": "Fernanda Costa",
+            "valor": 4771.12
+        },
+        {
+            "id": 764,
+            "vendedor": "João Silva",
+            "valor": 2344.69
+        },
+        {
+            "id": 765,
+            "vendedor": "Roberto Justos",
+            "valor": 5019.77
+        },
+        {
+            "id": 766,
+            "vendedor": "Paulo Oliveira",
+            "valor": 771.08
+        },
+        {
+            "id": 767,
+            "vendedor": "Armando Souto",
+            "valor": 2268.02
+        },
+        {
+            "id": 768,
+            "vendedor": "Carlos Pereira",
+            "valor": 3087.92
+        },
+        {
+            "id": 769,
+            "vendedor": "Beatriz Santos",
+            "valor": 1647.51
+        },
+        {
+            "id": 770,
+            "vendedor": "Lucas Almeida",
+            "valor": 1642.74
+        },
+        {
+            "id": 771,
+            "vendedor": "Roberto Justos",
+            "valor": 200.37
+        },
+        {
+            "id": 772,
+            "vendedor": "Paulo Oliveira",
+            "valor": 101.57
+        },
+        {
+            "id": 773,
+            "vendedor": "Armando Souto",
+            "valor": 4611.67
+        },
+        {
+            "id": 774,
+            "vendedor": "Tiririca da Silva",
+            "valor": 2366.71
+        },
+        {
+            "id": 775,
+            "vendedor": "Paulo Oliveira",
+            "valor": 223.82
+        },
+        {
+            "id": 776,
+            "vendedor": "Fernanda Costa",
+            "valor": 4535.44
+        },
+        {
+            "id": 777,
+            "vendedor": "João Silva",
+            "valor": 1583.91
+        },
+        {
+            "id": 778,
+            "vendedor": "Roberto Justos",
+            "valor": 1235.07
+        },
+        {
+            "id": 779,
+            "vendedor": "Paulo Oliveira",
+            "valor": 313.38
+        },
+        {
+            "id": 780,
+            "vendedor": "Lucas Almeida",
+            "valor": 5006.22
+        },
+        {
+            "id": 781,
+            "vendedor": "Lucas Almeida",
+            "valor": 3533.31
+        },
+        {
+            "id": 782,
+            "vendedor": "Beatriz Santos",
+            "valor": 3558.26
+        },
+        {
+            "id": 783,
+            "vendedor": "Fernanda Costa",
+            "valor": 4571.6
+        },
+        {
+            "id": 784,
+            "vendedor": "Carlos Pereira",
+            "valor": 3883.64
+        },
+        {
+            "id": 785,
+            "vendedor": "Paulo Oliveira",
+            "valor": 274.9
+        },
+        {
+            "id": 786,
+            "vendedor": "Lucas Almeida",
+            "valor": 1255.19
+        },
+        {
+            "id": 787,
+            "vendedor": "Lucas Almeida",
+            "valor": 3750.35
+        },
+        {
+            "id": 788,
+            "vendedor": "Paulo Oliveira",
+            "valor": 2031.15
+        },
+        {
+            "id": 789,
+            "vendedor": "Armando Souto",
+            "valor": 3988.62
+        },
+        {
+            "id": 790,
+            "vendedor": "Armando Souto",
+            "valor": 4678.78
+        },
+        {
+            "id": 791,
+            "vendedor": "João Silva",
+            "valor": 3977.46
+        },
+        {
+            "id": 792,
+            "vendedor": "Lucas Almeida",
+            "valor": 4178.98
+        },
+        {
+            "id": 793,
+            "vendedor": "Carlos Pereira",
+            "valor": 3600.05
+        },
+        {
+            "id": 794,
+            "vendedor": "Ana Lima",
+            "valor": 2215.05
+        },
+        {
+            "id": 795,
+            "vendedor": "Beatriz Santos",
+            "valor": 2160.1
+        },
+        {
+            "id": 796,
+            "vendedor": "Maria Souza",
+            "valor": 2274.58
+        },
+        {
+            "id": 797,
+            "vendedor": "Maria Souza",
+            "valor": 4306.15
+        },
+        {
+            "id": 798,
+            "vendedor": "Carlos Pereira",
+            "valor": 3559.49
+        },
+        {
+            "id": 799,
+            "vendedor": "João Silva",
+            "valor": 1339.64
+        },
+        {
+            "id": 800,
+            "vendedor": "Roberto Justos",
+            "valor": 3680.61
+        },
+        {
+            "id": 801,
+            "vendedor": "Tiririca da Silva",
+            "valor": 484.75
+        },
+        {
+            "id": 802,
+            "vendedor": "Fernanda Costa",
+            "valor": 186.03
+        },
+        {
+            "id": 803,
+            "vendedor": "Paulo Oliveira",
+            "valor": 3799.13
+        },
+        {
+            "id": 804,
+            "vendedor": "Fernanda Costa",
+            "valor": 222.22
+        },
+        {
+            "id": 805,
+            "vendedor": "Tiririca da Silva",
+            "valor": 3272.75
+        },
+        {
+            "id": 806,
+            "vendedor": "Roberto Justos",
+            "valor": 2037.18
+        },
+        {
+            "id": 807,
+            "vendedor": "Armando Souto",
+            "valor": 1293.25
+        },
+        {
+            "id": 808,
+            "vendedor": "Lucas Almeida",
+            "valor": 4846.02
+        },
+        {
+            "id": 809,
+            "vendedor": "Tiririca da Silva",
+            "valor": 2694.49
+        },
+        {
+            "id": 810,
+            "vendedor": "Beatriz Santos",
+            "valor": 2805.31
+        },
+        {
+            "id": 811,
+            "vendedor": "Lucas Almeida",
+            "valor": 850.35
+        },
+        {
+            "id": 812,
+            "vendedor": "Maria Souza",
+            "valor": 1645.23
+        },
+        {
+            "id": 813,
+            "vendedor": "Paulo Oliveira",
+            "valor": 3515.32
+        },
+        {
+            "id": 814,
+            "vendedor": "Armando Souto",
+            "valor": 2838.36
+        },
+        {
+            "id": 815,
+            "vendedor": "Tiririca da Silva",
+            "valor": 1977.32
+        },
+        {
+            "id": 816,
+            "vendedor": "Beatriz Santos",
+            "valor": 2339.97
+        },
+        {
+            "id": 817,
+            "vendedor": "Carlos Pereira",
+            "valor": 3895.38
+        },
+        {
+            "id": 818,
+            "vendedor": "Ana Lima",
+            "valor": 232.32
+        },
+        {
+            "id": 819,
+            "vendedor": "Ana Lima",
+            "valor": 4327.98
+        },
+        {
+            "id": 820,
+            "vendedor": "Maria Souza",
+            "valor": 1854.12
+        },
+        {
+            "id": 821,
+            "vendedor": "Tiririca da Silva",
+            "valor": 2758.73
+        },
+        {
+            "id": 822,
+            "vendedor": "Lucas Almeida",
+            "valor": 4134.3
+        },
+        {
+            "id": 823,
+            "vendedor": "Paulo Oliveira",
+            "valor": 455.87
+        },
+        {
+            "id": 824,
+            "vendedor": "Carlos Pereira",
+            "valor": 211.8
+        },
+        {
+            "id": 825,
+            "vendedor": "Beatriz Santos",
+            "valor": 611.59
+        },
+        {
+            "id": 826,
+            "vendedor": "Lucas Almeida",
+            "valor": 3179.63
+        },
+        {
+            "id": 827,
+            "vendedor": "João Silva",
+            "valor": 3288.25
+        },
+        {
+            "id": 828,
+            "vendedor": "Fernanda Costa",
+            "valor": 5078.7
+        },
+        {
+            "id": 829,
+            "vendedor": "Fernanda Costa",
+            "valor": 707.36
+        },
+        {
+            "id": 830,
+            "vendedor": "Carlos Pereira",
+            "valor": 3333.01
+        },
+        {
+            "id": 831,
+            "vendedor": "Maria Souza",
+            "valor": 4119.38
+        },
+        {
+            "id": 832,
+            "vendedor": "Armando Souto",
+            "valor": 2781.91
+        },
+        {
+            "id": 833,
+            "vendedor": "Carlos Pereira",
+            "valor": 1265.51
+        },
+        {
+            "id": 834,
+            "vendedor": "João Silva",
+            "valor": 1796.41
+        },
+        {
+            "id": 835,
+            "vendedor": "João Silva",
+            "valor": 4510.45
+        },
+        {
+            "id": 836,
+            "vendedor": "Maria Souza",
+            "valor": 2269.7
+        },
+        {
+            "id": 837,
+            "vendedor": "Lucas Almeida",
+            "valor": 436.17
+        },
+        {
+            "id": 838,
+            "vendedor": "Tiririca da Silva",
+            "valor": 2145.3
+        },
+        {
+            "id": 839,
+            "vendedor": "Beatriz Santos",
+            "valor": 576.09
+        },
+        {
+            "id": 840,
+            "vendedor": "Armando Souto",
+            "valor": 745.49
+        },
+        {
+            "id": 841,
+            "vendedor": "Tiririca da Silva",
+            "valor": 3044.65
+        },
+        {
+            "id": 842,
+            "vendedor": "Fernanda Costa",
+            "valor": 4752.48
+        },
+        {
+            "id": 843,
+            "vendedor": "Lucas Almeida",
+            "valor": 416.7
+        },
+        {
+            "id": 844,
+            "vendedor": "Roberto Justos",
+            "valor": 1154.12
+        },
+        {
+            "id": 845,
+            "vendedor": "Maria Souza",
+            "valor": 3112.54
+        },
+        {
+            "id": 846,
+            "vendedor": "Fernanda Costa",
+            "valor": 1242.26
+        },
+        {
+            "id": 847,
+            "vendedor": "Beatriz Santos",
+            "valor": 231.9
+        },
+        {
+            "id": 848,
+            "vendedor": "Armando Souto",
+            "valor": 2881.12
+        },
+        {
+            "id": 849,
+            "vendedor": "Carlos Pereira",
+            "valor": 272.22
+        },
+        {
+            "id": 850,
+            "vendedor": "Carlos Pereira",
+            "valor": 746.02
+        },
+        {
+            "id": 851,
+            "vendedor": "Roberto Justos",
+            "valor": 2360.9
+        },
+        {
+            "id": 852,
+            "vendedor": "Tiririca da Silva",
+            "valor": 2076.15
+        },
+        {
+            "id": 853,
+            "vendedor": "Beatriz Santos",
+            "valor": 1430.67
+        },
+        {
+            "id": 854,
+            "vendedor": "Fernanda Costa",
+            "valor": 1632.39
+        },
+        {
+            "id": 855,
+            "vendedor": "Roberto Justos",
+            "valor": 4008.62
+        },
+        {
+            "id": 856,
+            "vendedor": "Armando Souto",
+            "valor": 1799.27
+        },
+        {
+            "id": 857,
+            "vendedor": "Maria Souza",
+            "valor": 1745.66
+        },
+        {
+            "id": 858,
+            "vendedor": "Lucas Almeida",
+            "valor": 3403.2
+        },
+        {
+            "id": 859,
+            "vendedor": "Carlos Pereira",
+            "valor": 3758.44
+        },
+        {
+            "id": 860,
+            "vendedor": "Maria Souza",
+            "valor": 3519.63
+        },
+        {
+            "id": 861,
+            "vendedor": "Ana Lima",
+            "valor": 3862.44
+        },
+        {
+            "id": 862,
+            "vendedor": "Fernanda Costa",
+            "valor": 952.28
+        },
+        {
+            "id": 863,
+            "vendedor": "Beatriz Santos",
+            "valor": 4446
+        },
+        {
+            "id": 864,
+            "vendedor": "Maria Souza",
+            "valor": 3837.85
+        },
+        {
+            "id": 865,
+            "vendedor": "Armando Souto",
+            "valor": 4797.55
+        },
+        {
+            "id": 866,
+            "vendedor": "Tiririca da Silva",
+            "valor": 430.54
+        },
+        {
+            "id": 867,
+            "vendedor": "Ana Lima",
+            "valor": 3104.38
+        },
+        {
+            "id": 868,
+            "vendedor": "Lucas Almeida",
+            "valor": 3073.07
+        },
+        {
+            "id": 869,
+            "vendedor": "Armando Souto",
+            "valor": 3334.43
+        },
+        {
+            "id": 870,
+            "vendedor": "Paulo Oliveira",
+            "valor": 2931.76
+        },
+        {
+            "id": 871,
+            "vendedor": "Tiririca da Silva",
+            "valor": 1191.98
+        },
+        {
+            "id": 872,
+            "vendedor": "Fernanda Costa",
+            "valor": 4300.05
+        },
+        {
+            "id": 873,
+            "vendedor": "Maria Souza",
+            "valor": 3424.84
+        },
+        {
+            "id": 874,
+            "vendedor": "João Silva",
+            "valor": 4056.45
+        },
+        {
+            "id": 875,
+            "vendedor": "João Silva",
+            "valor": 4916.09
+        },
+        {
+            "id": 876,
+            "vendedor": "Carlos Pereira",
+            "valor": 4132.22
+        },
+        {
+            "id": 877,
+            "vendedor": "Armando Souto",
+            "valor": 3375.94
+        },
+        {
+            "id": 878,
+            "vendedor": "Beatriz Santos",
+            "valor": 2915.84
+        },
+        {
+            "id": 879,
+            "vendedor": "Lucas Almeida",
+            "valor": 1353.39
+        },
+        {
+            "id": 880,
+            "vendedor": "Paulo Oliveira",
+            "valor": 4629.29
+        },
+        {
+            "id": 881,
+            "vendedor": "Paulo Oliveira",
+            "valor": 2033.27
+        },
+        {
+            "id": 882,
+            "vendedor": "Tiririca da Silva",
+            "valor": 2710.71
+        },
+        {
+            "id": 883,
+            "vendedor": "Beatriz Santos",
+            "valor": 3059.33
+        },
+        {
+            "id": 884,
+            "vendedor": "Ana Lima",
+            "valor": 4298.47
+        },
+        {
+            "id": 885,
+            "vendedor": "Paulo Oliveira",
+            "valor": 2433.25
+        },
+        {
+            "id": 886,
+            "vendedor": "Fernanda Costa",
+            "valor": 2270.79
+        },
+        {
+            "id": 887,
+            "vendedor": "Roberto Justos",
+            "valor": 2396.41
+        },
+        {
+            "id": 888,
+            "vendedor": "Paulo Oliveira",
+            "valor": 698.44
+        },
+        {
+            "id": 889,
+            "vendedor": "Beatriz Santos",
+            "valor": 675.31
+        },
+        {
+            "id": 890,
+            "vendedor": "Maria Souza",
+            "valor": 3544.87
+        },
+        {
+            "id": 891,
+            "vendedor": "Lucas Almeida",
+            "valor": 4395.2
+        },
+        {
+            "id": 892,
+            "vendedor": "Maria Souza",
+            "valor": 3280.69
+        },
+        {
+            "id": 893,
+            "vendedor": "Tiririca da Silva",
+            "valor": 1322.69
+        },
+        {
+            "id": 894,
+            "vendedor": "Armando Souto",
+            "valor": 227.1
+        },
+        {
+            "id": 895,
+            "vendedor": "Paulo Oliveira",
+            "valor": 3363.04
+        },
+        {
+            "id": 896,
+            "vendedor": "Ana Lima",
+            "valor": 3696.35
+        },
+        {
+            "id": 897,
+            "vendedor": "Ana Lima",
+            "valor": 1700.18
+        },
+        {
+            "id": 898,
+            "vendedor": "Tiririca da Silva",
+            "valor": 3693.21
+        },
+        {
+            "id": 899,
+            "vendedor": "Maria Souza",
+            "valor": 660.01
+        },
+        {
+            "id": 900,
+            "vendedor": "Fernanda Costa",
+            "valor": 4610.66
+        },
+        {
+            "id": 901,
+            "vendedor": "Armando Souto",
+            "valor": 4947.71
+        },
+        {
+            "id": 902,
+            "vendedor": "Ana Lima",
+            "valor": 682.41
+        },
+        {
+            "id": 903,
+            "vendedor": "Maria Souza",
+            "valor": 2492.59
+        },
+        {
+            "id": 904,
+            "vendedor": "Paulo Oliveira",
+            "valor": 3224.51
+        },
+        {
+            "id": 905,
+            "vendedor": "Maria Souza",
+            "valor": 3364.96
+        },
+        {
+            "id": 906,
+            "vendedor": "Paulo Oliveira",
+            "valor": 795.21
+        },
+        {
+            "id": 907,
+            "vendedor": "Maria Souza",
+            "valor": 1677.11
+        },
+        {
+            "id": 908,
+            "vendedor": "Paulo Oliveira",
+            "valor": 4697.44
+        },
+        {
+            "id": 909,
+            "vendedor": "Tiririca da Silva",
+            "valor": 2721.4
+        },
+        {
+            "id": 910,
+            "vendedor": "João Silva",
+            "valor": 4218.44
+        },
+        {
+            "id": 911,
+            "vendedor": "Ana Lima",
+            "valor": 822.33
+        },
+        {
+            "id": 912,
+            "vendedor": "Paulo Oliveira",
+            "valor": 3129.22
+        },
+        {
+            "id": 913,
+            "vendedor": "Beatriz Santos",
+            "valor": 4745.46
+        },
+        {
+            "id": 914,
+            "vendedor": "Beatriz Santos",
+            "valor": 631.77
+        },
+        {
+            "id": 915,
+            "vendedor": "Ana Lima",
+            "valor": 1155.35
+        },
+        {
+            "id": 916,
+            "vendedor": "Lucas Almeida",
+            "valor": 3025.91
+        },
+        {
+            "id": 917,
+            "vendedor": "Carlos Pereira",
+            "valor": 3576.3
+        },
+        {
+            "id": 918,
+            "vendedor": "Tiririca da Silva",
+            "valor": 2683.36
+        },
+        {
+            "id": 919,
+            "vendedor": "Roberto Justos",
+            "valor": 394.33
+        },
+        {
+            "id": 920,
+            "vendedor": "Ana Lima",
+            "valor": 2936.35
+        },
+        {
+            "id": 921,
+            "vendedor": "João Silva",
+            "valor": 3687.28
+        },
+        {
+            "id": 922,
+            "vendedor": "Maria Souza",
+            "valor": 4617.11
+        },
+        {
+            "id": 923,
+            "vendedor": "Maria Souza",
+            "valor": 4373.89
+        },
+        {
+            "id": 924,
+            "vendedor": "Ana Lima",
+            "valor": 1675.71
+        },
+        {
+            "id": 925,
+            "vendedor": "Maria Souza",
+            "valor": 283.5
+        },
+        {
+            "id": 926,
+            "vendedor": "Carlos Pereira",
+            "valor": 4622.26
+        },
+        {
+            "id": 927,
+            "vendedor": "Roberto Justos",
+            "valor": 1377.01
+        },
+        {
+            "id": 928,
+            "vendedor": "Beatriz Santos",
+            "valor": 4959.07
+        },
+        {
+            "id": 929,
+            "vendedor": "Tiririca da Silva",
+            "valor": 3128.82
+        },
+        {
+            "id": 930,
+            "vendedor": "Ana Lima",
+            "valor": 4860.9
+        },
+        {
+            "id": 931,
+            "vendedor": "Roberto Justos",
+            "valor": 4683.04
+        },
+        {
+            "id": 932,
+            "vendedor": "Fernanda Costa",
+            "valor": 3274.83
+        },
+        {
+            "id": 933,
+            "vendedor": "Tiririca da Silva",
+            "valor": 2311.17
+        },
+        {
+            "id": 934,
+            "vendedor": "Tiririca da Silva",
+            "valor": 1322.83
+        },
+        {
+            "id": 935,
+            "vendedor": "Tiririca da Silva",
+            "valor": 1065.65
+        },
+        {
+            "id": 936,
+            "vendedor": "Lucas Almeida",
+            "valor": 3624.6
+        },
+        {
+            "id": 937,
+            "vendedor": "Maria Souza",
+            "valor": 2531.62
+        },
+        {
+            "id": 938,
+            "vendedor": "João Silva",
+            "valor": 3058.87
+        },
+        {
+            "id": 939,
+            "vendedor": "Ana Lima",
+            "valor": 5087.32
+        },
+        {
+            "id": 940,
+            "vendedor": "João Silva",
+            "valor": 280.19
+        },
+        {
+            "id": 941,
+            "vendedor": "Ana Lima",
+            "valor": 3888.71
+        },
+        {
+            "id": 942,
+            "vendedor": "Armando Souto",
+            "valor": 3119.81
+        },
+        {
+            "id": 943,
+            "vendedor": "Paulo Oliveira",
+            "valor": 4703.27
+        },
+        {
+            "id": 944,
+            "vendedor": "Maria Souza",
+            "valor": 2748.72
+        },
+        {
+            "id": 945,
+            "vendedor": "Maria Souza",
+            "valor": 4674.6
+        },
+        {
+            "id": 946,
+            "vendedor": "Fernanda Costa",
+            "valor": 2082.03
+        },
+        {
+            "id": 947,
+            "vendedor": "Armando Souto",
+            "valor": 1341.15
+        },
+        {
+            "id": 948,
+            "vendedor": "Lucas Almeida",
+            "valor": 1813.9
+        },
+        {
+            "id": 949,
+            "vendedor": "Maria Souza",
+            "valor": 1492.59
+        },
+        {
+            "id": 950,
+            "vendedor": "Paulo Oliveira",
+            "valor": 3621.16
+        },
+        {
+            "id": 951,
+            "vendedor": "Fernanda Costa",
+            "valor": 2065.93
+        },
+        {
+            "id": 952,
+            "vendedor": "Fernanda Costa",
+            "valor": 3824.44
+        },
+        {
+            "id": 953,
+            "vendedor": "Fernanda Costa",
+            "valor": 766.25
+        },
+        {
+            "id": 954,
+            "vendedor": "Lucas Almeida",
+            "valor": 4496.9
+        },
+        {
+            "id": 955,
+            "vendedor": "Maria Souza",
+            "valor": 860.58
+        },
+        {
+            "id": 956,
+            "vendedor": "João Silva",
+            "valor": 4172.25
+        },
+        {
+            "id": 957,
+            "vendedor": "Ana Lima",
+            "valor": 734.13
+        },
+        {
+            "id": 958,
+            "vendedor": "Beatriz Santos",
+            "valor": 3775.97
+        },
+        {
+            "id": 959,
+            "vendedor": "Carlos Pereira",
+            "valor": 3528.78
+        },
+        {
+            "id": 960,
+            "vendedor": "Beatriz Santos",
+            "valor": 434.97
+        },
+        {
+            "id": 961,
+            "vendedor": "Maria Souza",
+            "valor": 3481.3
+        },
+        {
+            "id": 962,
+            "vendedor": "Beatriz Santos",
+            "valor": 3914.07
+        },
+        {
+            "id": 963,
+            "vendedor": "Armando Souto",
+            "valor": 2262.76
+        },
+        {
+            "id": 964,
+            "vendedor": "Carlos Pereira",
+            "valor": 1463.52
+        },
+        {
+            "id": 965,
+            "vendedor": "Tiririca da Silva",
+            "valor": 266.18
+        },
+        {
+            "id": 966,
+            "vendedor": "Roberto Justos",
+            "valor": 2416.61
+        },
+        {
+            "id": 967,
+            "vendedor": "Carlos Pereira",
+            "valor": 426.19
+        },
+        {
+            "id": 968,
+            "vendedor": "Lucas Almeida",
+            "valor": 1587.89
+        },
+        {
+            "id": 969,
+            "vendedor": "Lucas Almeida",
+            "valor": 2376.33
+        },
+        {
+            "id": 970,
+            "vendedor": "Ana Lima",
+            "valor": 2973.83
+        },
+        {
+            "id": 971,
+            "vendedor": "Armando Souto",
+            "valor": 681.75
+        },
+        {
+            "id": 972,
+            "vendedor": "Ana Lima",
+            "valor": 2094.63
+        },
+        {
+            "id": 973,
+            "vendedor": "Tiririca da Silva",
+            "valor": 3875.87
+        },
+        {
+            "id": 974,
+            "vendedor": "Maria Souza",
+            "valor": 3340.11
+        },
+        {
+            "id": 975,
+            "vendedor": "Beatriz Santos",
+            "valor": 1021.92
+        },
+        {
+            "id": 976,
+            "vendedor": "Carlos Pereira",
+            "valor": 1292.59
+        },
+        {
+            "id": 977,
+            "vendedor": "João Silva",
+            "valor": 460.46
+        },
+        {
+            "id": 978,
+            "vendedor": "Beatriz Santos",
+            "valor": 2567.36
+        },
+        {
+            "id": 979,
+            "vendedor": "Carlos Pereira",
+            "valor": 2490.87
+        },
+        {
+            "id": 980,
+            "vendedor": "Roberto Justos",
+            "valor": 2475.5
+        },
+        {
+            "id": 981,
+            "vendedor": "Lucas Almeida",
+            "valor": 2297.71
+        },
+        {
+            "id": 982,
+            "vendedor": "Tiririca da Silva",
+            "valor": 5080.22
+        },
+        {
+            "id": 983,
+            "vendedor": "Ana Lima",
+            "valor": 3216.25
+        },
+        {
+            "id": 984,
+            "vendedor": "Roberto Justos",
+            "valor": 442.47
+        },
+        {
+            "id": 985,
+            "vendedor": "Carlos Pereira",
+            "valor": 3190.74
+        },
+        {
+            "id": 986,
+            "vendedor": "João Silva",
+            "valor": 3444.05
+        },
+        {
+            "id": 987,
+            "vendedor": "Carlos Pereira",
+            "valor": 1544.27
+        },
+        {
+            "id": 988,
+            "vendedor": "Fernanda Costa",
+            "valor": 1531.73
+        },
+        {
+            "id": 989,
+            "vendedor": "Paulo Oliveira",
+            "valor": 1108.19
+        },
+        {
+            "id": 990,
+            "vendedor": "Beatriz Santos",
+            "valor": 4583.57
+        },
+        {
+            "id": 991,
+            "vendedor": "Maria Souza",
+            "valor": 1488.33
+        },
+        {
+            "id": 992,
+            "vendedor": "Paulo Oliveira",
+            "valor": 2795.39
+        },
+        {
+            "id": 993,
+            "vendedor": "Ana Lima",
+            "valor": 4887.39
+        },
+        {
+            "id": 994,
+            "vendedor": "Tiririca da Silva",
+            "valor": 1607.88
+        },
+        {
+            "id": 995,
+            "vendedor": "Lucas Almeida",
+            "valor": 465.58
+        },
+        {
+            "id": 996,
+            "vendedor": "João Silva",
+            "valor": 457.91
+        },
+        {
+            "id": 997,
+            "vendedor": "Maria Souza",
+            "valor": 508.28
+        },
+        {
+            "id": 998,
+            "vendedor": "Carlos Pereira",
+            "valor": 247.17
+        },
+        {
+            "id": 999,
+            "vendedor": "Fernanda Costa",
+            "valor": 1517.99
+        },
+        {
+            "id": 1000,
+            "vendedor": "Tiririca da Silva",
+            "valor": 3272.56
+        }
     ]
 }
